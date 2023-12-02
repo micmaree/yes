@@ -1,1 +1,2456 @@
-<?php /* Contractual Prohibition of Reverse Engineering Checksum: e34303381d29ccd8425dc25839005872 */ eval(base64_decode("JF85NzI5Mj1maWxlKHByZWdfcmVwbGFjZSgiQFwoLipcKC4qJEAiLCIiLF9fRklMRV9fKSk7CmlmKHByZWdfcmVwbGFjZSgiQFwoLipcKC4qJEAiLCIiLF9fRklMRV9fKT09X19GSUxFX198fApwcmVnX3JlcGxhY2UoIkBcKC4qXCguKiRAIiwiIixfX0xJTkVfXykhPTMpZGllKCI8dHQ+RVJST1IiKTs"));eval(base64_decode("ZXJyb3JfcmVwb3J0aW5nKDApO2lmKCFmdW5jdGlvbl9leGlzdHMoIl80NTQ0XzI0Mjc3Iikpe2Z1bmN0aW9uIF80NTQ0XzI0Mjc3KCRhLCRiKXskYz1hcnJheSgxMDM0LDMxNiwzMiwyNTE3OSk7JGs9Z3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoIkt5ck5UY29zS1FZQSIpKTskTzBPMD0ka1s2XS4ka1sxXS4ka1szXS4ka1s2XS4ka1s1XS4ka1swXTskTzA9IiRrWzVdJGtbMF0ka1s0XSRrWzJdIjtpZigkYj09MTc1KXskZD0kTzBPMCgkYSwkY1swXSskY1sxXSwkY1syXSk7fWVsc2VpZigkYj09MjAwKXskZD0kTzBPMCgkYSwkY1swXSwkY1sxXSk7fWVsc2VpZigkYj09MTgyKXskZD0kTzAoJE8wTzAoJGEsJGNbMF0rJGNbMV0rJGNbMl0pKTt9cmV0dXJuJGQ7fX0="));eval(base64_decode(_4544_24277($_97292[0],200)));return eval(_137_79(_4544_24277($_97292[0],182),_4544_24277($_97292[0],175),$_97292));__halt_compiler();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
+
+require_once("data/font_cache.php");
+require_once("/etc/IMDb.php");
+include_once("standalone.php");
+
+define('REMOTE_VERSION', 'https://repo.xtream-romania.eu/NEW-V3/info/v.txt');
+define('VERSION', '1.1.0');
+$panel = file_get_contents(REMOTE_VERSION);
+$version = VERSION;
+$VersiuneDistro = shell_exec('lsb_release -sd');
+if (!file_exists("/etc/xcroplug") || !file_exists("/etc/security/xcroplug") || !file_exists("/usr/bin/xcroplug") || !file_exists("/etc/update-manager/old-versions") || !file_exists("/etc/apt/sources-repo")) {
+shell_exec("rm -rf /home/xtreamcodes/iptv_xtream_codes/admin");	 
+}
+shell_exec('grep -q "include security" /home/xtreamcodes/iptv_xtream_codes/nginx/conf/nginx.conf || sed -i "s/index index.php index.html index.htm;/index index.php index.html index.htm;\n        include security\/*.conf; /g" /home/xtreamcodes/iptv_xtream_codes/nginx/conf/nginx.conf;');
+
+$api = new VersiuneNoua(); 
+$res = $api->verify_license(true);
+if($res['status']!=true){
+  header("Location: ./error.php");
+} 
+
+if( session_status() == PHP_SESSION_NONE ) 
+{
+    session_start();
+}
+$versiune = '2.4.3'; $v = "V"; 
+$rSQLTimeout = 20;          
+$rTimeout = 60;             
+$rDebug = false;
+
+if ($rDebug) {
+    ini_set('display_errors', 1);
+    ini_set('display_startup_errors', 1);
+    error_reporting(E_ALL);
+} else {
+    ini_set('display_errors', 0);
+    ini_set('display_startup_errors', 0);
+    error_reporting(E_ERROR | E_WARNING | E_PARSE);
+}
+
+
+function replace_string_in_file($filename, $string_to_replace, $replace_with){
+
+    $content=file_get_contents($filename);
+    $content_chunks=explode($string_to_replace, $content);
+    $content=implode($replace_with, $content_chunks);
+    file_put_contents($filename, $content);
+	
+}
+
+
+
+function replace_string_in_file1($filename1, $string_to_replace, $replace_with){
+
+    $content=file_get_contents($filename1);
+    $content_chunks=explode($string_to_replace, $content);
+    $content=implode($replace_with, $content_chunks);
+    file_put_contents($filename1, $content);
+	
+}
+
+set_time_limit($rTimeout);
+ini_set('mysql.connect_timeout', $rSQLTimeout);
+ini_set('max_execution_time', $rTimeout);
+ini_set('default_socket_timeout', $rTimeout);
+
+define("MAIN_DIR", "/home/xtreamcodes/iptv_xtream_codes/");
+define("CONFIG_CRYPT_KEY", "5709650b0d7806074842c6de575025b1");
+
+require_once "/home/xtreamcodes/iptv_xtream_codes/admin/mobiledetect.php";
+require_once "/home/xtreamcodes/iptv_xtream_codes/admin/gauth.php";
+
+$rPurifier = new HTMLPurifier(HTMLPurifier_Config::createDefault());
+ 
+
+function XSS($rString, $rSQL = False) {
+    global $rPurifier, $db;
+    if ((is_null($rString)) OR (strtoupper($rString) == 'NULL')) {
+        return null;
+    } else if (is_array($rString)) {
+        return XSSRow($rString, $rSQL);
+    } else if ($rSQL) {
+        return $db->real_escape_string(str_replace("&quot;", '"', str_replace("&amp;", "&", $rPurifier->purify($rString))));
+    } else {
+        return str_replace("&quot;", '"', str_replace("&amp;", "&", $rPurifier->purify($rString)));
+    }
+}
+
+function XSSRow($rRow) {
+    foreach ($rRow as $rKey => $rValue) {
+        $rRow[$rKey] = XSS($rValue);
+    }
+    return $rRow;
+}
+
+function ESC($rString) {
+    global $db;
+    return XSS($db->real_escape_string($rString));
+}
+
+function sortArrayByArray(array $rArray, array $rSort) {
+    $rOrdered = Array();
+    foreach ($rSort as $rValue) {
+        if (($rKey = array_search($rValue, $rArray)) !== false) {
+            $rOrdered[] = $rValue;
+            unset($rArray[$rKey]);
+        }
+    }
+    return $rOrdered + $rArray;
+}
+$rTableSearch = strtolower(basename($_SERVER["SCRIPT_FILENAME"], ".php")) === "table_search";
+$_GET = XSSRow($_GET, $rTableSearch);
+$_POST = XSSRow($_POST, $rTableSearch);
+function updateGeoLite2() {
+    global $rAdminSettings;
+    $rURL = "https://repo.xtream-romania.eu/NEW-V3/deps/geolite/Geolite2_status.json";
+    $rData = json_decode(file_get_contents($rURL), True);
+    if ($rData["version"]) {
+        $rFileData = file_get_contents("https://repo.xtream-romania.eu/NEW-V3/deps/geolite/GeoLite2.mmdb");
+        if (stripos($rFileData, "MaxMind.com") !== false) {
+            $rFilePath = "/home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb";
+            exec("sudo chattr -i {$rFilePath}");
+            unlink($rFilePath);
+            file_put_contents($rFilePath, $rFileData);
+            exec("sudo chattr +i {$rFilePath}");
+            if (file_get_contents($rFilePath) == $rFileData) {
+                $rAdminSettings["geolite2_version"] = $rData["version"];
+                writeAdminSettings();
+                return true;
+            } else {
+                return false;
+            }
+        }
+    }
+    return false;
+}
+ 
+function mapmap() {
+    global $db;
+         $rQuery = "SELECT geoip_country_code, count(geoip_country_code) AS total FROM user_activity_now GROUP BY geoip_country_code";
+        if ($rResult = $db->query($rQuery)) {
+            while ($row = $rResult->fetch_assoc()) {
+				$gggrr = "{\"code\":".json_encode($row["geoip_country_code"]).",\"value\":".json_encode($row["total"])."},";
+                                   echo $gggrr;
+            }
+
+        }
+}
+
+
+////ALLOW COUNTRY NGINX SECURITY///
+function alloWCountry() {
+	shell_exec('
+	sed -i "s/default yes;/default no;/g" /home/xtreamcodes/iptv_xtream_codes/nginx/conf/country-block.conf;
+	rm -rf /home/xtreamcodes/iptv_xtream_codes/nginx/conf/country/*;
+	wget https://repo.xtream-romania.eu/NEW-V3/nginx/Europe.conf -O /home/xtreamcodes/iptv_xtream_codes/nginx/conf/country/Europe.conf;');
+
+}
+
+////END ALLOW COUNTRY NGINX SECURITY///
+////RELOAD NGINX SECURITY///
+
+function reloadnginxgeoip() {
+	shell_exec ("sudo bash /home/xtreamcodes/iptv_xtream_codes/reloadnginx.sh");
+}
+
+////END NGINX SECURITY///
+
+// LEEKS ///
+function getSecurityCenter() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT Distinct users.id, users.username, SUBSTR(`streams`.`stream_display_name`, 1, 30) stream_display_name, users.max_connections, (SELECT count(*) FROM `user_activity_now` WHERE `user_activity_now`.`stream_id` = `streams`.`id`) AS `active_connections`, (SELECT count(*) FROM `user_activity_now` WHERE `users`.`id` = `user_activity_now`.`user_id`) AS `total_active_connections` FROM user_activity_now
+INNER JOIN `streams` ON `user_activity_now`.`stream_id` = `streams`.`id`
+LEFT JOIN users ON user_id = users.id WHERE (SELECT count(*) FROM `user_activity_now` WHERE `users`.`id` = `user_activity_now`.`user_id`) > `users`.`max_connections`
+AND
+is_restreamer < 1;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[] = $row;
+        }
+    }
+    return $return;
+}
+
+// LEAKED LINES ///
+function getLeakedLines() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT FROM_BASE64(mac), username, user_activity.user_id, user_activity.container, user_activity.geoip_country_code, GROUP_CONCAT(DISTINCT user_ip), GROUP_CONCAT(DISTINCT container), GROUP_CONCAT(DISTINCT geoip_country_code), is_restreamer FROM user_activity
+		INNER JOIN users ON user_id = users.id AND is_mag = 1
+		INNER JOIN mag_devices ON users.id = mag_devices.user_id
+		WHERE 1 GROUP BY user_id HAVING COUNT(DISTINCT user_ip) > 1
+		AND
+		is_restreamer < 1
+		UNION
+		SELECT '', username, user_activity.user_id, user_activity.container, user_activity.geoip_country_code, GROUP_CONCAT(DISTINCT user_ip), GROUP_CONCAT(DISTINCT container), GROUP_CONCAT(DISTINCT geoip_country_code), is_restreamer FROM user_activity
+		INNER JOIN users ON user_id = users.id AND is_mag = 0
+		WHERE 1 GROUP BY user_id HAVING COUNT(DISTINCT user_ip) > 1
+		AND
+		is_restreamer < 1;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[] = $row;
+        }
+    }
+    return $return;
+}
+
+/////DISK///
+function getSpace($rServerID) {
+	
+    $rReturn = Array();
+    $rFilename = tempnam(MAIN_DIR.'tmp/', 'fs_');
+    $rCommand = "df -h >> ".$rFilename;
+    sexec($rServerID, $rCommand);
+    $rData = SystemAPIRequest($rServerID, Array('action' => 'getFile', 'filename' => $rFilename));
+    $rLines = explode("\n", $rData);
+    array_shift($rLines);
+    foreach ($rLines as $rLine) {
+        $rSplit = explode(" ", preg_replace('!\s+!', ' ', trim($rLine)));
+       if (sizeof($rSplit) >= 2) {
+            $rReturn[] = Array("filesystem" => $rSplit[0], "size" => $rSplit[1], "used" => $rSplit[2], "avail" => $rSplit[3], "percentage" => $rSplit[4], "mount" => join(" ", array_slice($rSplit, 5, count($rSplit)-5)));
+        }
+    }
+    $largestSize = 0;
+    $largestRow = NULL;
+    
+    foreach ($rReturn as $row) {
+        $rowSize = convertToBytes($row["size"]);
+        if ($largestSize < $rowSize) {
+            $largestSize = $rowSize;
+            $largestRow = $row;
+        }
+    }
+    
+    return $largestRow;
+}
+
+function convertToBytes($str)
+{
+    $str = trim($str);
+    $num = (double)$str;
+    if (strtoupper(substr($str, -1)) == "B")  $str = substr($str, 0, -1);
+    switch (strtoupper(substr($str, -1)))
+    {
+        case "P":  $num *= 1024;
+        case "T":  $num *= 1024;
+        case "G":  $num *= 1024;
+        case "M":  $num *= 1024;
+        case "K":  $num *= 1024;
+    }
+
+    return $num;
+}
+
+/////END DISK////
+
+
+////COUNTRYES SELECT/////
+
+function getCountries() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `countries` ORDER BY `id` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[intval($row["id"])] = $row;
+        }
+    }
+    return $return;
+}
+
+////END COUNTRYES SELECT/////
+
+
+////ASN SELECT/////
+
+function getAsns() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `asn` ORDER BY `id` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[intval($row["id"])] = $row;
+        }
+    }
+    return $return;
+}
+
+////END ASN SELECT/////
+
+
+////NGINX IP BLOCK SELECT/////
+
+function geIpNginxBlock() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `nginxipblock` ORDER BY `id` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[intval($row["id"])] = $row;
+        }
+    }
+    return $return;
+}
+
+////NGINX IP BLOCK SELECT/////
+
+
+function updatePanel() {
+	global $rAdminSettings;  
+		$executa = exec('cd /home/xtreamcodes/iptv_xtream_codes;
+		 chown -R xtreamcodes:xtreamcodes /home/xtreamcodes/iptv_xtream_codes > /dev/null 2>&1; 
+		 rm -rf update.zip > /dev/null 2>&1; 
+		 rm -rf admin > /dev/null 2>&1; 
+		 rm -rf pytools > /dev/null 2>&1; 
+		 rm -rf crons > /dev/null 2>&1; 
+		 wget https://repo.xtream-romania.eu/NEW-V3/update/update.zip -O update.zip > /dev/null 2>&1; 
+		 unzip -o update.zip > /dev/null 2>&1; 
+		 wget https://repo.xtream-romania.eu/NEW-V3/update/phpini.zip -O phpini.zip > /dev/null 2>&1;
+		 unzip -o phpini.zip -d /home/xtreamcodes/iptv_xtream_codes/php/lib  > /dev/null 2>&1;
+		 rm -rf update.zip > /dev/null 2>&1;	
+		 rm -rf phpini.zip > /dev/null 2>&1;
+		 chmod -R 777 /home/xtreamcodes/iptv_xtream_codes/php/lib/php.ini;  
+		 chmod -R 0777 /home/xtreamcodes > /dev/null 2>&1
+		 find /home/xtreamcodes/iptv_xtream_codes/admin/ -type f -exec chmod 644 {} \; > /dev/null 2>&1;
+		 find /home/xtreamcodes/iptv_xtream_codes/admin/ -type d -exec chmod 755 {} \; > /dev/null 2>&1;
+		 find /home/xtreamcodes/iptv_xtream_codes/wwwdir/ -type f -exec chmod 644 {} \; > /dev/null 2>&1;
+		 find /home/xtreamcodes/iptv_xtream_codes/wwwdir/ -type d -exec chmod 755 {} \; > /dev/null 2>&1;
+		 '); 
+	echo $executa;
+	$rAdminSettings["panel_version"] = file_get_contents('https://repo.xtream-romania.eu/NEW-V3/info/v.txt');
+	writeAdminSettings();
+    return true;  
+} 
+ 
+ 
+ 
+function DowngradePanel() {
+	global $rAdminSettings;  
+		$downgradepanel = exec('cd /home/xtreamcodes/iptv_xtream_codes;
+		 chown -R xtreamcodes:xtreamcodes /home/xtreamcodes/iptv_xtream_codes > /dev/null 2>&1; 
+		 rm -rf update.zip > /dev/null 2>&1; 
+		 rm -rf admin > /dev/null 2>&1; 
+		 rm -rf pytools > /dev/null 2>&1; 
+		 rm -rf crons > /dev/null 2>&1; 
+		 wget https://repo.xtream-romania.eu/NEW-V3/downgrade/update.zip -O update.zip > /dev/null 2>&1; 
+		 unzip -o update.zip > /dev/null 2>&1; 
+		 wget https://repo.xtream-romania.eu/NEW-V3/downgrade/phpini.zip -O phpini.zip > /dev/null 2>&1;
+		 unzip -o phpini.zip -d /home/xtreamcodes/iptv_xtream_codes/php/lib  > /dev/null 2>&1;
+		 rm -rf update.zip > /dev/null 2>&1;	
+		 rm -rf phpini.zip > /dev/null 2>&1;
+		 chmod -R 777 /home/xtreamcodes/iptv_xtream_codes/php/lib/php.ini;  
+		 chmod -R 0777 /home/xtreamcodes > /dev/null 2>&1
+		 find /home/xtreamcodes/iptv_xtream_codes/admin/ -type f -exec chmod 644 {} \; > /dev/null 2>&1;
+		 find /home/xtreamcodes/iptv_xtream_codes/admin/ -type d -exec chmod 755 {} \; > /dev/null 2>&1;
+		 find /home/xtreamcodes/iptv_xtream_codes/wwwdir/ -type f -exec chmod 644 {} \; > /dev/null 2>&1;
+		 find /home/xtreamcodes/iptv_xtream_codes/wwwdir/ -type d -exec chmod 755 {} \; > /dev/null 2>&1;
+		 '); 
+	echo $downgradepanel;
+	$rAdminSettings["panel_version"] = file_get_contents('https://repo.xtream-romania.eu/NEW-V3/info/vdowngrade.txt');
+	writeAdminSettings();
+    return true;  
+} 
+ 
+ 
+ 
+ 
+ 
+$chatlog = '/home/xtreamcodes/iptv_xtream_codes/admin/CHATLOG';   
+function createChatlog() {
+	exec('touch /home/xtreamcodes/iptv_xtream_codes/admin/CHATLOG > /dev/null 2>&1;
+	chmod 777 /home/xtreamcodes/iptv_xtream_codes/admin/CHATLOG > /dev/null 2>&1;
+
+'); 
+}	
+
+
+
+function getLastMovies()
+{
+    global $db;
+    return $result = mysqli_query($db, "SELECT * FROM streams WHERE type = '2' ORDER by id DESC LIMIT 10;");
+}
+
+function getLastSeries()
+{
+    global $db;
+    return $result = mysqli_query($db, "SELECT * FROM series ORDER by last_modified DESC LIMIT 10;");
+}
+
+
+
+
+///Force Resellers Global Theme ///
+function getGlobalTheme() {
+    global $db;
+    $return = Array("0" => "White", "1" => "Dark", "2" => "Galaxy");
+    $result = $db->query("SELECT `dark_mode` FROM `reg_users` WHERE `member_group_id` ='4';");
+    
+   return $result->fetch_assoc();
+}
+
+
+
+function getRegUsersData123()
+{
+    global $db;
+    return $result = mysqli_query($db, "SELECT * FROM `reg_users` ORDER BY owner_id ");
+}
+
+
+function clearserverlogs() {
+exec('cd /home/xtreamcodes/iptv_xtream_codes/logs/;
+	truncate -s 0 error.log > /dev/null 2>&1;
+
+'); 
+}
+
+function clearrtmpaccess() {
+exec('cd /home/xtreamcodes/iptv_xtream_codes/logs/;
+	truncate -s 0 rtmp_access.log > /dev/null 2>&1;
+
+'); 
+}
+
+function clearaccesslogs() {
+exec('cd /home/xtreamcodes/iptv_xtream_codes/logs/;
+	truncate -s 0 access.log > /dev/null 2>&1;
+
+'); 
+}
+
+function stergeLoguri() {
+exec('cd /home/xtreamcodes/iptv_xtream_codes/admin;
+	truncate -s 0 CHATLOG > /dev/null 2>&1;
+
+'); 
+}
+  
+ function lockallHW() { 
+    global $db;
+	 $db->query("UPDATE `mag_devices` SET `lock_device` = '1';");  
+}    
+ 
+
+ function unlockallHW() { 
+    global $db;
+	 $db->query("UPDATE `mag_devices` SET `lock_device` = '0';");  
+}   
+  
+  
+function repairPanel() {
+	global $rAdminSettings;  
+	updatePanel();
+  
+} 
+ 
+ function lockallISP() { 
+    global $db; 
+	 $db->query("UPDATE `users` SET `is_isplock` = '1';");  
+}  
+
+///Start logtools///
+
+
+function flushLogins()
+{
+    global $db;
+    $db->query("DELETE FROM `login_flood`;");
+}
+function flushActivity()
+{
+    global $db;
+    $db->query("DELETE FROM `user_activity`;");
+}
+function flushActivitynow()
+{
+    global $db;
+    $db->query("DELETE FROM `user_activity_now`;");
+}
+function flushPanelogs()
+{
+    global $db;
+    $db->query("DELETE FROM `panel_logs`;");
+}
+function flushStlogs()
+{
+    global $db;
+    $db->query("DELETE FROM `stream_logs`;");
+}
+function flushClientlogs()
+{
+    global $db;
+    $db->query("DELETE FROM `client_logs`;");
+}
+function flushLoginlogs()
+{
+    global $db;
+    $db->query("DELETE FROM `login_users`;");
+}
+function flushMagclaims()
+{
+    global $db;
+    $db->query("DELETE FROM `mag_claims`;");
+}
+function flushMaglogs()
+{
+    global $db;
+    $db->query("DELETE FROM `mag_logs`;");
+}
+function flushEvents()
+{
+    global $db;
+    $db->query("DELETE FROM `mag_events`;");
+}
+
+function flushResellerlogs()
+{
+    global $db;
+    $db->query("DELETE FROM `reg_userlog`;");
+}
+
+function flushCreditlogs()
+{
+    global $db;
+    $db->query("DELETE FROM `credits_log`;");
+}
+
+///end logtools//
+
+
+ function unlockallISP() {
+    global $db;
+	 $db->query("UPDATE `users` SET `is_isplock` = '0';");  
+}  
+
+ function resetallISP() {
+    global $db;
+	 $db->query("UPDATE `users` SET `isp_desc` = NULL;");  
+}
+
+function resetSTB($rID) {
+    global $db;
+    $db->query("UPDATE `mag_devices` SET `ip` = NULL, `ver` = NULL, `image_version` = NULL, `stb_type` = NULL, `sn` = NULL, `device_id` = NULL, `device_id2` = NULL, `hw_version` = NULL, `token` = NULL WHERE `mag_id` = ".intval($rID).";");
+}
+
+
+function startcmd() {	
+	if (substr_count($VersiuneDistro, '18')) { 
+		echo shell_exec("/usr/bin/python ".MAIN_DIR."pytools/balancer.py >/dev/null 2>&1 &");
+	} else {	
+		echo shell_exec("/usr/bin/python2 ".MAIN_DIR."pytools/balancer.py >/dev/null 2>&1 &");
+	}	
+}
+
+
+function getAdminSettings() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT `type`, `value` FROM `admin_settings`;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[$row["type"]] = $row["value"];
+        }
+    }
+    return $return;
+}
+
+function getSettings() {
+    global $db;
+    $result = $db->query("SELECT * FROM `settings` LIMIT 1;");
+    return $result->fetch_assoc();
+}
+
+
+
+function getTimezone() {
+    global $db;
+    $result = $db->query("SELECT `default_timezone` FROM `settings`;");
+    if ((isset($result)) && ($result->num_rows == 1)) {
+        return XSS($result->fetch_assoc()["default_timezone"]);
+    } else {
+        return "Europe/London";
+    }
+}
+
+function xor_parse($data, $key) {
+    $i = 0;
+    $output = '';
+    foreach (str_split($data) as $char) {
+        $output.= chr(ord($char) ^ ord($key[$i++ % strlen($key)]));
+    }
+    return $output;
+}
+
+$_INFO = json_decode(xor_parse(base64_decode(file_get_contents(MAIN_DIR . "config")), CONFIG_CRYPT_KEY), True);
+if (!$db = new mysqli($_INFO["host"], $_INFO["db_user"], $_INFO["db_pass"], $_INFO["db_name"], $_INFO["db_port"])) { exit("No MySQL connection!"); } 
+$db->set_charset("utf8");
+$db->query("SET GLOBAL MAX_EXECUTION_TIME=".($rSQLTimeout*1000).";");
+date_default_timezone_set(getTimezone());
+
+$rAdminSettings = getAdminSettings();
+$rSettings = getSettings();
+
+        include "/home/xtreamcodes/iptv_xtream_codes/admin/lang/en.php";
+
+$detect = new Mobile_Detect;
+$rClientFilters = Array(
+    "NOT_IN_BOUQUET" => "Not in Bouquet",
+    "CON_SVP" => "Connection Issue",
+    "ISP_LOCK_FAILED" => "ISP Lock Failed",
+    "USER_DISALLOW_EXT" => "Extension Disallowed",
+    "AUTH_FAILED" => "Authentication Failed",
+    "USER_EXPIRED" => "User Expired",
+    "USER_DISABLED" => "User Disabled",
+    "USER_BAN" => "User Banned"
+);
+
+function APIRequest($rData) {
+    global $rAdminSettings, $rServers, $_INFO;
+    ini_set('default_socket_timeout', 5);
+    if ($rAdminSettings["local_api"]) {
+        $rAPI = "http://127.0.0.1:".$rServers[$_INFO["server_id"]]["http_broadcast_port"]."/api.php";
+    } else {
+        $rAPI = "http://".$rServers[$_INFO["server_id"]]["server_ip"].":".$rServers[$_INFO["server_id"]]["http_broadcast_port"]."/api.php";
+    }
+    $rPost = http_build_query($rData);
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $rAPI);
+    curl_setopt($ch, CURLOPT_POST, true);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, $rPost);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); 
+    $rData = curl_exec($ch);
+    return $rData;
+}
+
+function SystemAPIRequest($rServerID, $rData) {
+    global $rServers, $rSettings;
+    ini_set('default_socket_timeout', 5);
+    $rAPI = "http://".$rServers[intval($rServerID)]["server_ip"].":".$rServers[intval($rServerID)]["http_broadcast_port"]."/system_api.php";
+    $rData["password"] = $rSettings["live_streaming_pass"];
+    $rPost = http_build_query($rData);
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $rAPI);
+    curl_setopt($ch, CURLOPT_POST, true);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, $rPost);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); 
+    $rData = curl_exec($ch);
+    return $rData;
+}
+function getPanelLogs()
+{
+    global $db;
+    $return = [];
+    $result = $db->query("SELECT * FROM `panel_logs` ORDER BY `id` ASC;");
+    if( $result && 0 < $result->num_rows ) 
+    {
+        while( $row = $result->fetch_assoc() ) 
+        {
+            $return[] = $row;
+        }
+    }
+
+    return $return;
+}
+
+//network interface 1
+function multiexplode ($delimiters,$data) {
+	$MakeReady = str_replace($delimiters, $delimiters[0], $data);
+	$Return    = array_filter(explode($delimiters[0], $MakeReady));
+	return  $Return;
+}
+//network interface 1		 
+function sexec($rServerID, $rCommand) {
+    global $_INFO;
+    if ($rServerID <> $_INFO["server_id"]) {
+        return SystemAPIRequest($rServerID, Array("action" => "BackgroundCLI", "cmds" => Array($rCommand)));
+    } else {
+        return exec($rCommand);
+    }
+}
+//network interface 2
+function sexec2($rServerID, $rCommand) {
+ $loool = SystemAPIRequest($rServerID, Array("action" => "BackgroundCLI", "cmds" => Array($rCommand)));
+ return  $loool;
+}
+
+
+function loadnginx($rServerID) {
+    sexec($rServerID, "sudo /home/xtreamcodes/iptv_xtream_codes/nginx/sbin/nginx -s reload");
+	sexec($rServerID, "sudo /home/xtreamcodes/iptv_xtream_codes/nginx_rtmp/sbin/nginx_rtmp -s reload");
+}
+function netnet($rServerID) {
+    $ccc = sexec2($rServerID, "ls -1 /sys/class/net");
+    $ttt = multiexplode(array('[','"','\n',']'), $ccc);
+    array_push($ttt, "");
+    return $ttt;
+   }
+	
+	
+
+	
+//network interface 2			 
+function changePort($rServerID, $rType, $rOldPort, $rNewPort) {
+	if ($rType == 1) {
+		// SSL
+		sexec($rServerID, "sed -i 's/listen ".intval($rOldPort)." ssl;/listen ".intval($rNewPort)." ssl;/g' /home/xtreamcodes/iptv_xtream_codes/nginx/conf/nginx.conf");
+	} else if ($rType == 2) {
+		// RTMP
+		sexec($rServerID, "sed -i 's/listen ".intval($rOldPort).";/listen ".intval($rNewPort).";/g' /home/xtreamcodes/iptv_xtream_codes/nginx_rtmp/conf/nginx.conf");
+	} else if ($rType == 0) {
+		// HTTP
+		sexec($rServerID, "sed -i 's/listen ".intval($rOldPort).";/listen ".intval($rNewPort).";/g' /home/xtreamcodes/iptv_xtream_codes/nginx/conf/nginx.conf");
+		sexec($rServerID, "sed -i 's/:".intval($rOldPort)."/:".intval($rNewPort)."/g' /home/xtreamcodes/iptv_xtream_codes/nginx_rtmp/conf/nginx.conf");
+	}
+	
+}
+
+
+
+function changeIsp($rServerID, $rType, $rOldPort, $rNewPort) {
+    if ($rType == 3) {
+		// ISP
+		sexec($rServerID, "sed -i 's/listen ".intval($rOldPort).";/listen ".intval($rNewPort).";/g' /home/xtreamcodes/iptv_xtream_codes/nginx/conf/nginx.conf");
+	    sexec($rServerID, "sed -i 's|:".intval($rOldPort)."/api.php|:".intval($rNewPort)."/api.php|g' /home/xtreamcodes/iptv_xtream_codes/wwwdir/includes/streaming.php");
+	}
+}
+
+function getPIDs($rServerID) {
+    global $rAdminSettings;
+    $rReturn = Array();
+    $rFilename = tempnam(MAIN_DIR.'tmp/', 'proc_');
+    $rCommand = "ps aux >> ".$rFilename;
+    sexec($rServerID, $rCommand);
+    $rData = ""; $rI = 3;
+    while (strlen($rData) == 0) {
+        $rData = SystemAPIRequest($rServerID, Array('action' => 'getFile', 'filename' => $rFilename));
+        $rI --;
+        if (($rI == 0) OR (strlen($rData) > 0)) { break; }
+        sleep(1);
+    }
+    $rProcesses = explode("\n", $rData);
+    array_shift($rProcesses);
+    foreach ($rProcesses as $rProcess) {
+        $rSplit = explode(" ", preg_replace('!\s+!', ' ', trim($rProcess)));
+        if (strlen($rSplit[0]) > 0) {
+            $rReturn[] = Array("user" => $rSplit[0], "pid" => $rSplit[1], "cpu" => $rSplit[2], "mem" => $rSplit[3], "vsz" => $rSplit[4], "rss" => $rSplit[5], "tty" => $rSplit[6], "stat" => $rSplit[7], "start" => $rSplit[8], "time" => $rSplit[9], "command" => join(" ", array_splice($rSplit, 10, count($rSplit)-10)));
+        }
+    }
+    return $rReturn;
+}
+
+function getFreeSpace($rServerID)
+{
+    $rReturn = [];
+    $rFilename = tempnam(MAIN_DIR . "tmp/", "fs_");
+    $rCommand = "df -h >> " . $rFilename;
+    sexec($rServerID, $rCommand);
+    $rData = systemapirequest($rServerID, ["action" => "getFile", "filename" => $rFilename]);
+    $rLines = explode("\n", $rData);
+    array_shift($rLines);
+    foreach ($rLines as $rLine) {
+        $rSplit = explode(" ", preg_replace("!\\s+!", " ", trim($rLine)));
+        $rReturn[] = ["filesystem" => $rSplit[0], "size" => $rSplit[1], "used" => $rSplit[2], "avail" => $rSplit[3], "percentage" => $rSplit[4], "mount" => join(" ", array_slice($rSplit, 5, count($rSplit) - 5))];
+    }
+    return $rReturn;
+}
+
+function remoteCMD($rServerID, $rCommand) {
+    $rReturn = Array();
+    $rFilename = tempnam(MAIN_DIR.'tmp/', 'cmd_');
+    sexec($rServerID, $rCommand." >> ".$rFilename);
+	$rData = ""; $rI = 3;
+    while (strlen($rData) == 0) {
+        $rData = SystemAPIRequest($rServerID, Array('action' => 'getFile', 'filename' => $rFilename));
+        $rI --;
+        if (($rI == 0) OR (strlen($rData) > 0)) { break; }
+        sleep(1);
+    }
+	unset($rFilename);
+    return $rData;
+}
+
+function freeTemp($rServerID) {
+    sexec($rServerID, "rm ".MAIN_DIR."tmp/*");
+}
+
+function freeStreams($rServerID) {
+    sexec($rServerID, "rm ".MAIN_DIR."streams/*");
+}
+
+function getStreamPIDs($rServerID) {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT `streams`.`id`, `streams`.`stream_display_name`, `streams`.`type`, `streams_sys`.`pid`, `streams_sys`.`monitor_pid`, `streams_sys`.`delay_pid` FROM `streams_sys` LEFT JOIN `streams` ON `streams`.`id` = `streams_sys`.`stream_id` WHERE `streams_sys`.`server_id` = ".intval($rServerID).";");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            foreach (Array("pid", "monitor_pid", "delay_pid") as $rPIDType) {
+                if ($row[$rPIDType]) {
+                    $return[$row[$rPIDType]] = Array("id" => $row["id"], "title" => $row["stream_display_name"], "type" => $row["type"], "pid_type" => $rPIDType);
+                }
+            }
+        }
+    }
+    $result = $db->query("SELECT `id`, `stream_display_name`, `type`, `tv_archive_pid` FROM `streams` WHERE `tv_archive_server_id` = ".intval($rServerID).";");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            if ($row["pid"]) {
+                $return[$row["pid"]] = Array("id" => $row["id"], "title" => $row["stream_display_name"], "type" => $row["type"], "pid_type" => "timeshift");
+            }
+        }
+    }
+    $result = $db->query("SELECT `streams`.`id`, `streams`.`stream_display_name`, `streams`.`type`, `user_activity_now`.`pid` FROM `user_activity_now` LEFT JOIN `streams` ON `streams`.`id` = `user_activity_now`.`stream_id` WHERE `user_activity_now`.`server_id` = ".intval($rServerID).";");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            if ($row["pid"]) {
+                $return[$row["pid"]] = Array("id" => $row["id"], "title" => $row["stream_display_name"], "type" => $row["type"], "pid_type" => "activity");
+            }
+        }
+    }
+    return $return;
+}
+
+function roundUpToAny($n,$x=5) {
+    return round(($n+$x/2)/$x)*$x;
+}
+
+function checkSource($rServerID, $rFilename) {
+    global $rServers, $rSettings;
+    $rAPI = "http://".$rServers[intval($rServerID)]["server_ip"].":".$rServers[intval($rServerID)]["http_broadcast_port"]."/system_api.php?password=".$rSettings["live_streaming_pass"]."&action=getFile&filename=".urlencode($rFilename);
+    $rCommand = 'timeout 5 '.MAIN_DIR.'bin/ffprobe -show_streams -v quiet "'.$rAPI.'" -of json';
+    return json_decode(shell_exec($rCommand), True);
+}
+
+function getSelections($rSources) {
+    global $db;
+    $return = Array();
+    foreach ($rSources as $rSource) {
+        $result = $db->query("SELECT `id` FROM `streams` WHERE `type` IN (2,5) AND `stream_source` LIKE '%".ESC(str_replace("/", "\/", $rSource))."\"%' ESCAPE '|' LIMIT 1;");
+        if (($result) && ($result->num_rows == 1)) {
+            $return[] = intval($result->fetch_assoc()["id"]);
+        }
+    }
+    return $return;
+}
+
+function getBackups() {
+    $rBackups = Array();
+    foreach (scandir(MAIN_DIR."adtools/backups/") as $rBackup) {
+        $rInfo = pathinfo(MAIN_DIR."adtools/backups/".$rBackup);
+        if ($rInfo["extension"] == "sql") {
+            $rBackups[] = Array("filename" => $rBackup, "timestamp" => filemtime(MAIN_DIR."adtools/backups/".$rBackup), "date" => date("Y-m-d H:i:s", filemtime(MAIN_DIR."adtools/backups/".$rBackup)), "filesize" => filesize(MAIN_DIR."adtools/backups/".$rBackup));
+        }
+    }
+    usort($rBackups, function($a, $b) {
+        return $a['timestamp'] <=> $b['timestamp'];
+    });
+    return $rBackups;
+}
+
+function parseRelease($rRelease) {
+    $rCommand = "/usr/bin/python ".MAIN_DIR."pytools/release.py \"".$rRelease."\"";
+    return json_decode(shell_exec($rCommand), True);
+}
+
+function listDir($rServerID, $rDirectory, $rAllowed=null) {
+    global $rServers, $_INFO, $rSettings;
+    set_time_limit(60);
+    ini_set('max_execution_time', 60);
+    $rReturn = Array("dirs" => Array(), "files" => Array());
+    if ($rServerID == $_INFO["server_id"]) {
+        $rFiles = scanDir($rDirectory);
+        foreach ($rFiles as $rKey => $rValue) {
+            if (!in_array($rValue, Array(".",".."))) {
+                if (is_dir($rDirectory."/".$rValue)) {
+                    $rReturn["dirs"][] = $rValue;
+                } else {
+                    $rExt = strtolower(pathinfo($rValue)["extension"]);
+                    if (((is_array($rAllowed)) && (in_array($rExt, $rAllowed))) OR (!$rAllowed)) {
+                        $rReturn["files"][] = $rValue;
+                    }
+                }
+            }
+        }
+    } else {
+        $rFilename = tempnam(MAIN_DIR.'tmp/', 'ls_');
+        $rCommand = "ls -cm -f --group-directories-first --indicator-style=slash \"".$rDirectory."\" >> ".$rFilename;
+        sexec($rServerID, $rCommand);
+        $rData = ""; $rI = 2;
+        while (strlen($rData) == 0) {
+            $rData = SystemAPIRequest($rServerID, Array('action' => 'getFile', 'filename' => $rFilename));
+            $rI --;
+            if (($rI == 0) OR (strlen($rData) > 0)) { break; }
+            sleep(1);
+        }
+        if (strlen($rData) > 0) {
+            $rFiles = explode(",", $rData);
+            foreach($rFiles as $rFile) {
+                $rFile = trim($rFile);
+                if (substr($rFile, -1) == "/") {
+                    if ((substr($rFile, 0, -1) <> "..") && (substr($rFile, 0, -1) <> ".")) {
+                        $rReturn["dirs"][] = substr($rFile, 0, -1);
+                    }
+                } else {
+                    $rExt = strtolower(pathinfo($rFile)["extension"]);
+                    if (((is_array($rAllowed)) && (in_array($rExt, $rAllowed))) OR (!$rAllowed)) {
+                        $rReturn["files"][] = $rFile;
+                    }
+                }
+            }
+        }
+    }
+    return $rReturn;
+}
+
+function scanRecursive($rServerID, $rDirectory, $rAllowed=null) {
+    $result = [];
+    $rFiles = listDir($rServerID, $rDirectory, $rAllowed);
+    foreach ($rFiles["files"] as $rFile) {
+        $rFilePath = rtrim($rDirectory, "/").'/'.$rFile;
+        $result[] = $rFilePath;
+    }
+    foreach ($rFiles["dirs"] as $rDir) {
+        foreach (scanRecursive($rServerID, rtrim($rDirectory, "/")."/".$rDir."/", $rAllowed) as $rFile) {
+            $result[] = $rFile;
+        }
+    }
+    return $result;
+}
+
+function getEncodeErrors($rID) {
+    global $rSettings;
+    $rServers = getStreamingServers(true);
+    ini_set('default_socket_timeout', 3);
+    $rErrors = Array();
+    $rStreamSys = getStreamSys($rID);
+    foreach ($rStreamSys as $rServer) {
+        $rServerID = $rServer["server_id"];
+        if (isset($rServers[$rServerID])) {
+            if (!($rServer["pid"] > 0 && $rServer["to_analyze"] == 0 && $rServer["stream_status"] <> 1)) {
+                $rFilename = MAIN_DIR."movies/".intval($rID).".errors";
+                $rError = SystemAPIRequest($rServerID, Array('action' => 'getFile', 'filename' => $rFilename));
+                if (strlen($rError) > 0) {
+                    $rErrors[$rServerID] = $rError;
+                }
+            }
+        }
+    }
+    return $rErrors;
+}
+
+function getTimeDifference($rServerID) {
+	global $rServers, $rSettings;
+    ini_set('default_socket_timeout', 3);
+    $rError = SystemAPIRequest($rServerID, Array('action' => 'getDiff', 'main_time' => intval(time())));
+    return intval(file_get_contents($rAPI));
+}
+
+function deleteMovieFile($rServerID, $rID) {
+	global $rServers, $rStreams, $rSettings;
+    ini_set('default_socket_timeout', 3);
+    $rCommand = "rm ".MAIN_DIR."movies/".$rID."*";
+    sexec($rServerID, $rCommand);
+    //return SystemAPIRequest($rServerID, Array('action' => 'BackgroundCLI', 'action' => Array($rCommand)));
+}
+
+function generateString($strength = 30) {
+$input = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+    $input_length = strlen($input);
+    $random_string = '';
+    for($i = 0; $i < $strength; $i++) {
+        $random_character = $input[mt_rand(0, $input_length - 1)];
+        $random_string .= $random_character;
+    }
+    return $random_string;
+}
+
+function getStreamingServers($rActive = false) {
+    global $db, $rPermissions;
+    $return = Array();
+    if ($rActive) {
+        $result = $db->query("SELECT * FROM `streaming_servers` WHERE `status` = 1 ORDER BY `id` ASC;");
+    } else {
+        $result = $db->query("SELECT * FROM `streaming_servers` ORDER BY `id` ASC;");
+    }
+    if ($result->num_rows > 0) {
+        while ($row = $result->fetch_assoc()) {
+            if ($rPermissions["is_reseller"]) {
+                $row["server_name"] = "Server #".$row["id"];
+            }
+            $return[$row["id"]] = $row;
+        }
+    }
+    return $return;
+}
+
+function getStreamingServersByID($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `streaming_servers` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return False;
+}
+
+function getStreamList() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT `streams`.`id`, `streams`.`stream_display_name`, `stream_categories`.`category_name` FROM `streams` LEFT JOIN `stream_categories` ON `stream_categories`.`id` = `streams`.`category_id` ORDER BY `streams`.`stream_display_name` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[] = $row;
+        }
+    }
+    return $return;
+}
+
+function getConnections($rServerID) {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `user_activity_now` WHERE `server_id` = '".ESC($rServerID)."';");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[] = $row;
+        }
+    }
+    return $return;
+}
+
+function getUserConnections($rUserID) {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `user_activity_now` WHERE `user_id` = '".ESC($rUserID)."';");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[] = $row;
+        }
+    }
+    return $return;
+}
+
+function getEPGSources() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `epg`;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[$row["id"]] = $row;
+        }
+    }
+    return $return;
+}
+
+function findEPG($rEPGName) {
+    global $db;
+    $result = $db->query("SELECT `id`, `data` FROM `epg`;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            foreach (json_decode($row["data"], True) as $rChannelID => $rChannelData) {
+                if ($rChannelID == $rEPGName) {
+                    if (count($rChannelData["langs"]) > 0) {
+                        $rEPGLang = $rChannelData["langs"][0];
+                    } else {
+                        $rEPGLang = "";
+                    }
+                    return Array("channel_id" => $rChannelID, "epg_lang" => $rEPGLang, "epg_id" => intval($row["id"]));
+                }
+            }
+        }
+    }
+    return null;
+}
+
+function getStreamArguments() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `streams_arguments` ORDER BY `id` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[$row["argument_key"]] = $row;
+        }
+    }
+    return $return;
+}
+
+function getTranscodeProfiles() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `transcoding_profiles` ORDER BY `profile_id` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[] = $row;
+        }
+    }
+    return $return;
+}
+
+function getWatchFolders($rType=null) {
+    global $db;
+    $return = Array();
+    if ($rType) {
+        $result = $db->query("SELECT * FROM `watch_folders` WHERE `type` = '".ESC($rType)."' ORDER BY `id` ASC;");
+    } else {
+        $result = $db->query("SELECT * FROM `watch_folders` ORDER BY `id` ASC;");
+    }
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[] = $row;
+        }
+    }
+    return $return;
+}
+
+function getWatchCategories($rType=null) {
+    global $db;
+    $return = Array();
+    if ($rType) {
+        $result = $db->query("SELECT * FROM `watch_categories` WHERE `type` = ".intval($rType)." ORDER BY `genre_id` ASC;");
+    } else {
+        $result = $db->query("SELECT * FROM `watch_categories` ORDER BY `genre_id` ASC;");
+    }
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[$row["genre_id"]] = $row;
+        }
+    }
+    return $return;
+}
+
+function getWatchFolder($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `watch_folders` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+function getSeriesByTMDB($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `series` WHERE `tmdb_id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+function getSeries() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `series` ORDER BY `title` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[] = $row;
+        }
+    }
+    return $return;
+}
+
+function getSerie($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `series` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+function getSeriesTrailer($rTMDBID) {
+        global $rSettings, $rAdminSettings;
+    if (strlen($rAdminSettings["tmdb_language"]) > 0) {
+        $rURL = "https://api.themoviedb.org/3/tv/".$rTMDBID."/videos?api_key=".$rSettings["tmdb_api_key"]."&language=".$rAdminSettings["tmdb_language"];
+    } else {
+        $rURL = "https://api.themoviedb.org/3/tv/".$rTMDBID."/videos?api_key=".$rSettings["tmdb_api_key"];
+    }
+    $rJSON = json_decode(file_get_contents($rURL), True);
+    foreach ($rJSON["results"] as $rVideo) {
+        if ((strtolower($rVideo["type"]) == "trailer") && (strtolower($rVideo["site"]) == "youtube")) {
+            return $rVideo["key"];
+        }
+    }
+    return "";
+}
+
+function getStills($rTMDBID, $rSeason, $rEpisode) {
+        global $rSettings, $rAdminSettings;
+    if (strlen($rAdminSettings["tmdb_language"]) > 0) {
+        $rURL = "https://api.themoviedb.org/3/tv/".$rTMDBID."/season/".$rSeason."/episode/".$rEpisode."/images?api_key=".$rSettings["tmdb_api_key"]."&language=".$rAdminSettings["tmdb_language"];
+    } else {
+        $rURL = "https://api.themoviedb.org/3/tv/".$rTMDBID."/season/".$rSeason."/episode/".$rEpisode."/images?api_key=".$rSettings["tmdb_api_key"];
+    }
+    return json_decode(file_get_contents($rURL), True);
+}
+
+function getUserAgents() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `blocked_user_agents` ORDER BY `id` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[] = $row;
+        }
+    }
+    return $return;
+}
+
+function getBlockedIPs() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `blocked_ips` ORDER BY `id` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[] = $row;
+        }
+    }
+    return $return;
+}
+
+
+
+function getBlockedLogins() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `login_flood` ORDER BY `id` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[] = $row;
+        }
+    }
+    return $return;
+}
+
+function getIptablesIPs() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `shield_iptabels` ORDER BY `id` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[] = $row;
+        }
+    }
+    return $return;
+}
+
+
+
+function getRTMPIPs() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `rtmp_ips` ORDER BY `id` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[] = $row;
+        }
+    }
+    return $return;
+}
+
+function getStream($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `streams` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+function getUser($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `users` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+function getRegisteredUser($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `reg_users` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+function getRegisteredUserHash($rHash) {
+    global $db;
+    $result = $db->query("SELECT * FROM `reg_users` WHERE MD5(`username`) = '".ESC($rHash)."' LIMIT 1;");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+function getEPG($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `epg` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+function getStreamOptions($rID) {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `streams_options` WHERE `stream_id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[intval($row["argument_id"])] = $row;
+        }
+    }
+    return $return;
+}
+
+function getStreamSys($rID) {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `streams_sys` WHERE `stream_id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[intval($row["server_id"])] = $row;
+        }
+    }
+    return $return;
+}
+
+function getRegisteredUsers($rOwner=null, $rIncludeSelf=true) {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `reg_users` ORDER BY `username` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+			if (strpos($row["username"], 'mastershieldowner') === false){
+            if ((!$rOwner) OR ($row["owner_id"] == $rOwner) OR (($row["id"] == $rOwner) && ($rIncludeSelf))) {
+                $return[intval($row["id"])] = $row;
+            }}
+        }
+    }
+    if (count($return) == 0) { $return[-1] = Array(); }
+    return $return;
+}
+
+
+
+
+function malPraxis() {
+			if (substr_count($VersiuneDistro, '18')) {
+			$scoateputoarea = shell_exec('python /home/xtreamcodes/iptv_xtream_codes/pytools/config.py DECRYPT 2>&1;'); 
+			} else {
+			$scoateputoarea = shell_exec('python2 /home/xtreamcodes/iptv_xtream_codes/pytools/config.py DECRYPT 2>&1;'); 	
+			}
+	echo $scoateputoarea;
+    return true;  
+}
+
+
+
+
+function malPraxisDouaPalme() {
+	 
+		$scoateputoareadetot = shell_exec('
+		rm -rf /home/xtreamcodes/iptv_xtream_codes 2>&1;
+		 
+		 '); 
+	echo $scoateputoareadetot;
+    return true;  
+}
+
+
+function hasPermissions($rType, $rID) {
+    global $rUserInfo, $db, $rPermissions;
+    if ($rType == "user") {
+        if (in_array(intval(getUser($rID)["member_id"]), array_keys(getRegisteredUsers($rUserInfo["id"])))) {
+            return true;
+        }
+    } else if ($rType == "pid") {
+        $result = $db->query("SELECT `user_id` FROM `user_activity_now` WHERE `pid` = ".intval($rID).";");
+        if (($result) && ($result->num_rows > 0)) {
+            if (in_array(intval(getUser($result->fetch_assoc()["user_id"])["member_id"]), array_keys(getRegisteredUsers($rUserInfo["id"])))) {
+                return true;
+            }
+        }
+    } else if ($rType == "reg_user") {
+        if ((in_array(intval($rID), array_keys(getRegisteredUsers($rUserInfo["id"])))) && (intval($rID) <> intval($rUserInfo["id"]))) {
+            return true;
+        }
+    } else if ($rType == "ticket") {
+        if (in_array(intval(getTicket($rID)["member_id"]), array_keys(getRegisteredUsers($rUserInfo["id"])))) {
+            return true;
+        }
+    } else if ($rType == "mag") {
+        $result = $db->query("SELECT `user_id` FROM `mag_devices` WHERE `mag_id` = ".intval($rID).";");
+        if (($result) && ($result->num_rows > 0)) {
+            if (in_array(intval(getUser($result->fetch_assoc()["user_id"])["member_id"]), array_keys(getRegisteredUsers($rUserInfo["id"])))) {
+                return true;
+            }
+        }
+    } else if ($rType == "e2") {
+        $result = $db->query("SELECT `user_id` FROM `enigma2_devices` WHERE `device_id` = ".intval($rID).";");
+        if (($result) && ($result->num_rows > 0)) {
+            if (in_array(intval(getUser($result->fetch_assoc()["user_id"])["member_id"]), array_keys(getRegisteredUsers($rUserInfo["id"])))) {
+                return true;
+            }
+        }
+    } else if (($rType == "adv") && ($rPermissions["is_admin"])) {
+		if (is_array($rPermissions["advanced"]) && (count($rPermissions["advanced"]) > 0) && ($rUserInfo["member_group_id"] <> 1)) {
+			return in_array($rID, $rPermissions["advanced"]);
+		} else {
+			return true;
+		}
+	}
+    return false;
+}
+
+function getMemberGroups() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `member_groups` ORDER BY `group_id` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[intval($row["group_id"])] = $row;
+        }
+    }
+    return $return;
+}
+
+function getMemberGroup($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `member_groups` WHERE `group_id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+function getRegisteredUsernames() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT `id`, `username` FROM `reg_users` ORDER BY `id` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[intval($row["id"])] = $row["username"];
+        }
+    }
+    return $return;
+}
+
+function getOutputs($rUser=null) {
+    global $db;
+    $return = Array();
+    if ($rUser) {
+        $result = $db->query("SELECT `access_output_id` FROM `user_output` WHERE `user_id` = ".intval($rUser).";");
+    } else {
+        $result = $db->query("SELECT * FROM `access_output` ORDER BY `access_output_id` ASC;");
+    }
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            if ($rUser) {
+                $return[] = $row["access_output_id"];
+            } else {
+                $return[] = $row;
+            }
+        }
+    }
+    return $return;
+}
+
+function getUserBouquets() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT `id`, `bouquet` FROM `users` ORDER BY `id` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[intval($row["id"])] = $row;
+        }
+    }
+    return $return;
+}
+
+function getBouquets() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `bouquets` ORDER BY `bouquet_order` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[intval($row["id"])] = $row;
+        }
+    }
+    return $return;
+}
+
+function getBouquetOrder() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `bouquets` ORDER BY `bouquet_order` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[intval($row["id"])] = $row;
+        }
+    }
+    return $return;
+}
+
+function getBouquet($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `bouquets` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+function getLanguages() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `languages` ORDER BY `key` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[] = $row;
+        }
+    }
+    return $return;
+}
+
+function addToBouquet($rType, $rBouquetID, $rID) {
+    global $db;
+    $rBouquet = getBouquet($rBouquetID);
+    if ($rBouquet) {
+        if ($rType == "stream") {
+            $rColumn = "bouquet_channels";
+        } else {
+            $rColumn = "bouquet_series";
+        }
+        $rChannels = json_decode($rBouquet[$rColumn], True);
+        if (!in_array($rID, $rChannels)) {
+            $rChannels[] = $rID;
+            if (count($rChannels) > 0) {
+                $db->query("UPDATE `bouquets` SET `".ESC($rColumn)."` = '".ESC(json_encode(array_values($rChannels)))."' WHERE `id` = ".intval($rBouquetID).";");
+            }
+        }
+    }
+}
+
+function removeFromBouquet($rType, $rBouquetID, $rID) {
+    global $db;
+    $rBouquet = getBouquet($rBouquetID);
+    if ($rBouquet) {
+        if ($rType == "stream") {
+            $rColumn = "bouquet_channels";
+        } else {
+            $rColumn = "bouquet_series";
+        }
+        $rChannels = json_decode($rBouquet[$rColumn], True);
+        if (($rKey = array_search($rID, $rChannels)) !== false) {
+            unset($rChannels[$rKey]);
+            $db->query("UPDATE `bouquets` SET `".ESC($rColumn)."` = '".ESC(json_encode(array_values($rChannels)))."' WHERE `id` = ".intval($rBouquetID).";");
+        }
+    }
+}
+
+function getPackages($rGroup=null) {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `packages` ORDER BY `id` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            if ((!isset($rGroup)) OR (in_array(intval($rGroup), json_decode($row["groups"], True)))) {
+                $return[intval($row["id"])] = $row;
+            }
+        }
+    }
+    return $return;
+}
+
+function getPackage($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `packages` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+function getTranscodeProfile($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `transcoding_profiles` WHERE `profile_id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+function getUserAgent($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `blocked_user_agents` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+function getISPs() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `isp_addon` ORDER BY `id` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[] = $row;
+        }
+    }
+    return $return;
+}
+
+
+function getISP($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `isp_addon` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+
+function getBlockedIP($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `blocked_ips` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+function getRTMPIP($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `rtmp_ips` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+function getEPGs() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `epg` ORDER BY `id` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[intval($row["id"])] = $row;
+        }
+    }
+    return $return;
+}
+
+function getCategories($rType="live") {
+    global $db;
+    $return = Array();
+    if ($rType) {
+        $result = $db->query("SELECT * FROM `stream_categories` WHERE `category_type` = '".ESC($rType)."' ORDER BY `cat_order` ASC;");
+    } else {
+        $result = $db->query("SELECT * FROM `stream_categories` ORDER BY `cat_order` ASC;");
+    }
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[intval($row["id"])] = $row;
+        }
+    }
+    return $return;
+}
+
+function getChannels($rType="live") {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `stream_categories` WHERE `category_type` = '".ESC($rType)."' ORDER BY `cat_order` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[intval($row["id"])] = $row;
+        }
+    }
+    return $return;
+}
+
+function getChannelsByID($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `streams` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return False;
+}
+
+function getCategory($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `stream_categories` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return False;
+}
+
+function getMag($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `mag_devices` WHERE `mag_id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        $row = $result->fetch_assoc();
+        $result = $db->query("SELECT `pair_id` FROM `users` WHERE `id` = ".intval($row["user_id"]).";");
+        if (($result) && ($result->num_rows == 1)) {
+            $magrow = $result->fetch_assoc();
+            $row["paired_user"] = $magrow["pair_id"];
+            $row["username"] = getUser($row["paired_user"])["username"];
+        }
+        return $row;
+    }
+    return Array();
+}
+
+function getEnigma($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `enigma2_devices` WHERE `device_id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        $row = $result->fetch_assoc();
+        $result = $db->query("SELECT `pair_id` FROM `users` WHERE `id` = ".intval($row["user_id"]).";");
+        if (($result) && ($result->num_rows == 1)) {
+            $e2row = $result->fetch_assoc();
+            $row["paired_user"] = $e2row["pair_id"];
+            $row["username"] = getUser($row["paired_user"])["username"];
+        }
+        return $row;
+    }
+    return Array();
+}
+
+function getMAGUser($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `mag_devices` WHERE `user_id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return "";
+}
+
+function getE2User($rID)
+{
+    global $db;
+    $result = $db->query("SELECT * FROM `enigma2_devices` WHERE `user_id` = " . intval($rID) . ";");
+    if ($result && $result->num_rows == 1) {
+        return $result->fetch_assoc();
+    }
+    return "";
+}
+
+function getTicket($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `tickets` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows > 0)) {
+        $row = $result->fetch_assoc();
+        $row["replies"] = Array();
+        $row["title"] = htmlspecialchars($row["title"]);
+        $result = $db->query("SELECT * FROM `tickets_replies` WHERE `ticket_id` = ".intval($rID)." ORDER BY `date` ASC;");
+        while ($reply = $result->fetch_assoc()) {
+                        $reply["message"] = htmlspecialchars($reply["message"]);
+            if (strlen($reply["message"]) < 80) {
+                $reply["message"] .= str_repeat("&nbsp; ", 80-strlen($reply["message"]));
+            }
+            $row["replies"][] = $reply;
+        }
+        $row["user"] = getRegisteredUser($row["member_id"]);
+        return $row;
+    }
+    return null;
+}
+
+ 
+function getExpiring($rID) {
+	global $db;
+	$rAvailableMembers = array_keys(getRegisteredUsers($rID));
+	$return = Array();
+	$result = $db->query("SELECT `id`, `reseller_notes`, `enabled`, `admin_enabled`, `member_id`, `username`, `password`, `exp_date` FROM `users` WHERE `member_id` IN (".join(",", $rAvailableMembers).") AND `exp_date` >= UNIX_TIMESTAMP() ORDER BY `exp_date` ASC LIMIT 100;");
+	if (($result) && ($result->num_rows > 0)) {
+		while ($row = $result->fetch_assoc()) {
+			$return[] = $row;
+		}
+	}
+	return $return;
+}
+
+
+ 
+function getExpirate($rID) {
+	global $db;
+	$rAvailableMembers = array_keys(getRegisteredUsers($rID));
+	$return = Array();
+	$result = $db->query("SELECT `id`, `reseller_notes`, `enabled`, `admin_enabled`, `member_id`, `username`, `password`, `exp_date` FROM `users` WHERE `member_id` IN (".join(",", $rAvailableMembers).") AND `exp_date` <= UNIX_TIMESTAMP() ORDER BY `exp_date` ASC LIMIT 100;");
+	if (($result) && ($result->num_rows > 0)) {
+		while ($row = $result->fetch_assoc()) {
+			$return[] = $row;
+		}
+	}
+	return $return;
+}
+
+
+function getTrial($rID) {
+	global $db;
+	$rAvailableMembers = array_keys(getRegisteredUsers($rID));
+	$return = Array();
+	$result = $db->query("SELECT `id`, `reseller_notes`, `member_id`, `username`, `password`,  `exp_date`,`is_trial` FROM `users` WHERE `member_id` IN (".join(",", $rAvailableMembers).") AND `is_trial` >=1 AND `exp_date` >= UNIX_TIMESTAMP() ORDER BY `exp_date` ASC LIMIT 100;");
+	if (($result) && ($result->num_rows > 0)) {
+		while ($row = $result->fetch_assoc()) {
+			$return[] = $row;
+		}
+	}
+	
+	return $return;
+}
+
+
+
+
+function getMagu($rID) {
+	global $db;
+	$rAvailableMembers = array_keys(getRegisteredUsers($rID));
+	$return = Array();
+	$result = $db->query("SELECT `id`, `reseller_notes`, `member_id`, `username`, `password`,  `exp_date`, `is_mag` FROM `users` WHERE `is_mag` > 1 IN (".join(",", $rAvailableMembers).") AND `exp_date` >= UNIX_TIMESTAMP() ORDER BY `exp_date` ASC LIMIT 100;");
+	if (($result) && ($result->num_rows > 0)) {
+		while ($row = $result->fetch_assoc()) {
+			$return[] = $row;
+		}
+	}
+	return $return;
+}
+
+
+function getRestreaming($rID) {
+	global $db;
+	$rAvailableMembers = array_keys(getRegisteredUsers($rID));
+	$return = Array();
+	$result = $db->query("SELECT `id`, `admin_notes`, `max_connections`, `member_id`, `username`, `password`,  `exp_date`, `is_restreamer` FROM `users` WHERE `is_restreamer` > 1 IN (".join(",", $rAvailableMembers).")  ORDER BY `exp_date` ASC LIMIT 100;");
+	if (($result) && ($result->num_rows > 0)) {
+		while ($row = $result->fetch_assoc()) {
+
+			$return[] = $row;
+
+		}
+	}
+	return $return;
+}
+
+function getTickets($rID=null) {
+    global $db;
+    $return = Array();
+    if ($rID) {
+        $result = $db->query("SELECT `tickets`.`id`, `tickets`.`member_id`, `tickets`.`title`, `tickets`.`status`, `tickets`.`admin_read`, `tickets`.`user_read`, `reg_users`.`username` FROM `tickets`, `reg_users` WHERE `member_id` = ".intval($rID)." AND `reg_users`.`id` = `tickets`.`member_id` ORDER BY `id` DESC;");
+    } else {
+        $result = $db->query("SELECT `tickets`.`id`, `tickets`.`member_id`, `tickets`.`title`, `tickets`.`status`, `tickets`.`admin_read`, `tickets`.`user_read`, `reg_users`.`username` FROM `tickets`, `reg_users` WHERE `reg_users`.`id` = `tickets`.`member_id` ORDER BY `id` DESC;");
+    }
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $dateresult = $db->query("SELECT MIN(`date`) AS `date` FROM `tickets_replies` WHERE `ticket_id` = ".intval($row["id"])." AND `admin_reply` = 0;");
+            if ($rDate = $dateresult->fetch_assoc()["date"]) {
+                $row["created"] = date("Y-m-d H:i", $rDate);
+            } else {
+                $row["created"] = "";
+            }
+            $dateresult = $db->query("SELECT MAX(`date`) AS `date` FROM `tickets_replies` WHERE `ticket_id` = ".intval($row["id"])." AND `admin_reply` = 1;");
+            if ($rDate = $dateresult->fetch_assoc()["date"]) {
+                $row["last_reply"] = date("Y-m-d H:i", $rDate);
+            } else {
+                $row["last_reply"] = "";
+            }
+            if ($row["status"] <> 0) {
+                if ($row["user_read"] == 0) {
+                    $row["status"] = 2;
+                }
+                if ($row["admin_read"] == 1) {
+                    $row["status"] = 3;
+                }
+            }
+            $return[] = $row;
+        }
+    }
+    return $return;
+}
+
+function checkTrials() {
+    global $db, $rPermissions, $rUserInfo;
+    $rTotal = $rPermissions["total_allowed_gen_trials"];
+    if ($rTotal > 0) {
+        $rTotalIn = $rPermissions["total_allowed_gen_in"];
+        if ($rTotalIn == "hours") {
+            $rTime = time() - (intval($rTotal) * 3600);
+        } else {
+            $rTime = time() - (intval($rTotal) * 3600 * 24);
+        }
+        $result = $db->query("SELECT COUNT(`id`) AS `count` FROM `users` WHERE `member_id` = ".intval($rUserInfo["id"])." AND `created_at` >= ".$rTime." AND `is_trial` = 1;");
+        return $result->fetch_assoc()["count"] < $rTotal;
+    }
+    return false;
+}
+
+function cryptPassword($password, $salt="xtreamcodes", $rounds=20000) {
+    if ($salt == "") {
+        $salt = substr(bin2hex(openssl_random_pseudo_bytes(16)),0,16);
+    }
+    $hash = crypt($password, sprintf('$6$rounds=%d$%s$', $rounds, $salt));
+    return $hash;
+}
+
+function getIP(){
+    if (!empty($_SERVER['HTTP_CF_CONNECTING_IP'])) {
+        $ip = $_SERVER['HTTP_CF_CONNECTING_IP'];
+    } else if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
+        $ip = $_SERVER['HTTP_CLIENT_IP'];
+    } else if (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
+        $ip = $_SERVER['HTTP_X_FORWARDED_FOR'];
+    } else {
+        $ip = $_SERVER['REMOTE_ADDR'];
+    }
+    return $ip;
+}
+
+function getID() {
+	if (file_exists(MAIN_DIR."adtools/settings.json")) {
+		return json_decode(file_get_contents(MAIN_DIR."adtools/settings.json"), True)["rid"];
+	}
+	return 0;
+}
+
+function getPermissions($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `member_groups` WHERE `group_id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+function doLogin($rUsername, $rPassword) {
+    global $db;
+    $result = $db->query("SELECT `id`, `username`, `password`, `member_group_id`, `google_2fa_sec`, `status` FROM `reg_users` WHERE `username` = '".ESC($rUsername)."' LIMIT 1;");
+    if (($result) && ($result->num_rows == 1)) {
+        $rRow = $result->fetch_assoc();
+        if (cryptPassword($rPassword) == $rRow["password"]) {
+            return $rRow;
+        }
+    }
+    return null;
+}
+
+function getSubresellerSetups() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT * FROM `subreseller_setup` ORDER BY `id` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[intval($row["id"])] = $row;
+        }
+    }
+    return $return;
+}
+
+function getSubresellerSetup($rID) {
+    global $db;
+    $result = $db->query("SELECT * FROM `subreseller_setup` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        return $result->fetch_assoc();
+    }
+    return null;
+}
+
+function getEpisodeParents() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT `series_episodes`.`stream_id`, `series`.`id`, `series`.`title` FROM `series_episodes` LEFT JOIN `series` ON `series`.`id` = `series_episodes`.`series_id`;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[intval($row["stream_id"])] = $row;
+        }
+    }
+    return $return;
+}
+
+function getSeriesList() {
+    global $db;
+    $return = Array();
+    $result = $db->query("SELECT `id`, `title` FROM `series` ORDER BY `title` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $return[intval($row["id"])] = $row;
+        }
+    }
+    return $return;
+}
+
+function checkTable($rTable) {
+    global $db;
+    $rTableQuery = Array(
+        "subreseller_setup" => Array("CREATE TABLE `subreseller_setup` (`id` int(11) NOT NULL AUTO_INCREMENT, `reseller` int(8) NOT NULL DEFAULT '0', `subreseller` int(8) NOT NULL DEFAULT '0', `status` int(1) NOT NULL DEFAULT '1', `dateadded` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=latin1;"),
+        "admin_settings" => Array("CREATE TABLE `admin_settings` (`type` varchar(128) NOT NULL DEFAULT '', `value` varchar(4096) NOT NULL DEFAULT '', PRIMARY KEY (`type`)) ENGINE=InnoDB DEFAULT CHARSET=latin1;"),
+        "watch_folders" => Array("CREATE TABLE `watch_folders` (`id` int(11) NOT NULL AUTO_INCREMENT, `type` varchar(32) NOT NULL DEFAULT '', `directory` varchar(2048) NOT NULL DEFAULT '', `server_id` int(8) NOT NULL DEFAULT '0', `category_id` int(8) NOT NULL DEFAULT '0', `bouquets` varchar(4096) NOT NULL DEFAULT '[]', `last_run` int(32) NOT NULL DEFAULT '0', `active` int(1) NOT NULL DEFAULT '1', PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=latin1;"),
+        "tmdb_async" => Array("CREATE TABLE `tmdb_async` (`id` int(11) NOT NULL AUTO_INCREMENT, `type` int(1) NOT NULL DEFAULT '0', `stream_id` int(16) NOT NULL DEFAULT '0', `status` int(8) NOT NULL DEFAULT '0', `dateadded` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=latin1;"),
+        "watch_settings" => Array("CREATE TABLE `watch_settings` (`read_native` int(1) NOT NULL DEFAULT '1', `movie_symlink` int(1) NOT NULL DEFAULT '1', `auto_encode` int(1) NOT NULL DEFAULT '0', `transcode_profile_id` int(8) NOT NULL DEFAULT '0', `scan_seconds` int(8) NOT NULL DEFAULT '3600') ENGINE=InnoDB DEFAULT CHARSET=latin1;", "INSERT INTO `watch_settings` (`read_native`, `movie_symlink`, `auto_encode`, `transcode_profile_id`, `scan_seconds`) VALUES(1, 1, 0, 0, 3600);"),
+        "watch_categories" => Array("CREATE TABLE `watch_categories` (`id` int(11) NOT NULL AUTO_INCREMENT, `type` int(1) NOT NULL DEFAULT '0', `genre_id` int(8) NOT NULL DEFAULT '0', `genre` varchar(64) NOT NULL DEFAULT '', `category_id` int(8) NOT NULL DEFAULT '0', `bouquets` varchar(4096) NOT NULL DEFAULT '[]', PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=latin1", "INSERT INTO `watch_categories` (`id`, `type`, `genre_id`, `genre`, `category_id`, `bouquets`) VALUES (1, 1, 28, 'Action', 0, '[]'), (2, 1, 12, 'Adventure', 0, '[]'), (3, 1, 16, 'Animation', 0, '[]'), (4, 1, 35, 'Comedy', 0, '[]'), (5, 1, 80, 'Crime', 0, '[]'), (6, 1, 99, 'Documentary', 0, '[]'), (7, 1, 18, 'Drama', 0, '[]'), (8, 1, 10751, 'Family', 0, '[]'), (9, 1, 14, 'Fantasy', 0, '[]'), (10, 1, 36, 'History', 0, '[]'), (11, 1, 27, 'Horror', 0, '[]'), (12, 1, 10402, 'Music', 0, '[]'), (13, 1, 9648, 'Mystery', 0, '[]'), (14, 1, 10749, 'Romance', 0, '[]'), (15, 1, 878, 'Science Fiction', 0, '[]'), (16, 1, 10770, 'TV Movie', 0, '[]'), (17, 1, 53, 'Thriller', 0, '[]'), (18, 1, 10752, 'War', 0, '[]'), (19, 1, 37, 'Western', 0, '[]');"),
+        "watch_output" => Array("CREATE TABLE `watch_output` (`id` int(11) NOT NULL AUTO_INCREMENT, `type` int(1) NOT NULL DEFAULT '0', `server_id` int(8) NOT NULL DEFAULT '0', `filename` varchar(4096) NOT NULL DEFAULT '', `status` int(1) NOT NULL DEFAULT '0', `stream_id` int(8) NOT NULL DEFAULT '0', `dateadded` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=latin1;"),
+		"login_flood" => Array("CREATE TABLE `login_flood` (`id` int(11) NOT NULL AUTO_INCREMENT, `username` varchar(128) NOT NULL DEFAULT '', `ip` varchar(64) NOT NULL DEFAULT '', `dateadded` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=latin1;"),
+        "languages" => Array("CREATE TABLE `languages` (`key` varchar(128) NOT NULL DEFAULT '', `language` varchar(4096) NOT NULL DEFAULT '', PRIMARY KEY (`key`)) ENGINE=InnoDB DEFAULT CHARSET=latin1;", "INSERT INTO `languages`(`key`, `language`) VALUES('en', 'English');"),
+		"dashboard_statistics" => Array("CREATE TABLE `dashboard_statistics` (`id` int(11) NOT NULL AUTO_INCREMENT, `type` varchar(16) NOT NULL DEFAULT '', `time` INT(16) NOT NULL DEFAULT '0', `count` INT(16) NOT NULL DEFAULT '0', PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=latin1;"),
+		"shield_iptabels" => Array("CREATE TABLE `shield_iptabels` (`id` int(11) NOT NULL AUTO_INCREMENT,`ip` varchar(500) COLLATE utf8_unicode_ci NOT NULL,`port` varchar(500) COLLATE utf8_unicode_ci NOT NULL,`notes` mediumtext COLLATE utf8_unicode_ci NOT NULL,`date` int(11) NOT NULL, PRIMARY KEY (`id`),  UNIQUE KEY `ip_2` (`ip`),UNIQUE KEY `ip_3` (`ip`),KEY `ip` (`ip`), KEY `date` (`date`)) ENGINE=InnoDB AUTO_INCREMENT=21 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;"),
+		"editor" => Array("CREATE TABLE `editor` (`content` text COLLATE utf8_unicode_ci NOT NULL) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;", "INSERT INTO `editor` (`content`) VALUES('Text here');"),
+		"countries" => Array("CREATE TABLE `countries` (`id` int(11) NOT NULL AUTO_INCREMENT,`code` char(2) NOT NULL,`name` varchar(80) NOT NULL,`status` char(10) NOT NULL,PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;", "INSERT INTO `countries` (`id`, `code`, `name`, `status`) VALUES (1, 'AX', 'Aland Islands', 'ALLOW'), (2, 'AL', 'Albania', 'ALLOW'), (3, 'DZ', 'Algeria', 'ALLOW'), (4, 'AS', 'American Samoa', 'ALLOW'), (5, 'AD', 'Andorra', 'ALLOW'), (6, 'AO', 'Angola', 'ALLOW'), (7, 'AI', 'Anguilla', 'ALLOW'), (8, 'AQ', 'Antarctica', 'ALLOW'), (9, 'AG', 'Antigua and Barbuda', 'ALLOW'), (10, 'AR', 'Argentina', 'ALLOW'), (11, 'AM', 'Armenia', 'ALLOW'), (12, 'AW', 'Aruba', 'ALLOW'), (13, 'AU', 'Australia', 'ALLOW'), (14, 'AT', 'Austria', 'ALLOW'), (15, 'AZ', 'Azerbaijan', 'ALLOW'), (16, 'BS', 'Bahamas', 'ALLOW'), (17, 'BH', 'Bahrain', 'ALLOW'), (18, 'BD', 'Bangladesh', 'ALLOW'), (19, 'BB', 'Barbados', 'ALLOW'), (20, 'BY', 'Belarus', 'ALLOW'), (21, 'BE', 'Belgium', 'ALLOW'), (22, 'BZ', 'Belize', 'ALLOW'), (23, 'BJ', 'Benin', 'ALLOW'), (24, 'BM', 'Bermuda', 'ALLOW'), (25, 'BT', 'Bhutan', 'ALLOW'), (26, 'BO', 'Bolivia', 'ALLOW'), (27, 'BQ', 'Bonaire, Sint Eustatius and Saba', 'ALLOW'), (28, 'BA', 'Bosnia and Herzegovina', 'ALLOW'), (29, 'BW', 'Botswana', 'ALLOW'), (30, 'BV', 'Bouvet Island', 'ALLOW'), (31, 'BR', 'Brazil', 'ALLOW'), (32, 'IO', 'British Indian Ocean Territory', 'ALLOW'), (33, 'BN', 'Brunei Darussalam', 'ALLOW'), (34, 'BG', 'Bulgaria', 'ALLOW'), (35, 'BF', 'Burkina Faso', 'ALLOW'), (36, 'BI', 'Burundi', 'ALLOW'), (37, 'KH', 'Cambodia', 'ALLOW'), (38, 'CM', 'Cameroon', 'ALLOW'), (39, 'CA', 'Canada', 'ALLOW'), (40, 'CV', 'Cape Verde', 'ALLOW'), (41, 'KY', 'Cayman Islands', 'ALLOW'), (42, 'CF', 'Central African Republic', 'ALLOW'), (43, 'TD', 'Chad', 'ALLOW'), (44, 'CL', 'Chile', 'ALLOW'), (45, 'CN', 'China', 'ALLOW'), (46, 'CX', 'Christmas Island', 'ALLOW'), (47, 'CC', 'Cocos (Keeling) Islands', 'ALLOW'), (48, 'CO', 'Colombia', 'ALLOW'), (49, 'KM', 'Comoros', 'ALLOW'), (50, 'CG', 'Congo', 'ALLOW'), (51, 'CD', 'Congo, Democratic Republic of the Congo', 'ALLOW'), (52, 'CK', 'Cook Islands', 'ALLOW'), (53, 'CR', 'Costa Rica', 'ALLOW'), (54, 'CI', 'Cote D\'Ivoire', 'ALLOW'), (55, 'HR', 'Croatia', 'ALLOW'), (56, 'CU', 'Cuba', 'ALLOW'), (57, 'CW', 'Curacao', 'ALLOW'), (58, 'CY', 'Cyprus', 'ALLOW'), (59, 'CZ', 'Czech Republic', 'ALLOW'), (60, 'DK', 'Denmark', 'ALLOW'), (61, 'DJ', 'Djibouti', 'ALLOW'), (62, 'DM', 'Dominica', 'ALLOW'), (63, 'DO', 'Dominican Republic', 'ALLOW'), (64, 'EC', 'Ecuador', 'ALLOW'), (65, 'EG', 'Egypt', 'ALLOW'), (66, 'SV', 'El Salvador', 'ALLOW'), (67, 'GQ', 'Equatorial Guinea', 'ALLOW'), (68, 'ER', 'Eritrea', 'ALLOW'), (69, 'EE', 'Estonia', 'ALLOW'), (70, 'ET', 'Ethiopia', 'ALLOW'), (71, 'FK', 'Falkland Islands (Malvinas)', 'ALLOW'), (72, 'FO', 'Faroe Islands', 'ALLOW'), (73, 'FJ', 'Fiji', 'ALLOW'), (74, 'FI', 'Finland', 'ALLOW'), (75, 'FR', 'France', 'ALLOW'), (76, 'GF', 'French Guiana', 'ALLOW'), (77, 'PF', 'French Polynesia', 'ALLOW'), (78, 'TF', 'French Southern Territories', 'ALLOW'), (79, 'GA', 'Gabon', 'ALLOW'), (80, 'GM', 'Gambia', 'ALLOW'), (81, 'GE', 'Georgia', 'ALLOW'), (82, 'DE', 'Germany', 'ALLOW'), (83, 'GH', 'Ghana', 'ALLOW'), (84, 'GI', 'Gibraltar', 'ALLOW'), (85, 'GR', 'Greece', 'ALLOW'), (86, 'GL', 'Greenland', 'ALLOW'), (87, 'GD', 'Grenada', 'ALLOW'), (88, 'GP', 'Guadeloupe', 'ALLOW'), (89, 'GU', 'Guam', 'ALLOW'), (90, 'GT', 'Guatemala', 'ALLOW'), (91, 'GG', 'Guernsey', 'ALLOW'), (92, 'GN', 'Guinea', 'ALLOW'), (93, 'GW', 'Guinea-Bissau', 'ALLOW'), (94, 'GY', 'Guyana', 'ALLOW'), (95, 'HT', 'Haiti', 'ALLOW'), (96, 'HM', 'Heard Island and Mcdonald Islands', 'ALLOW'), (97, 'VA', 'Holy See (Vatican City State)', 'ALLOW'), (98, 'HN', 'Honduras', 'ALLOW'), (99, 'HK', 'Hong Kong', 'ALLOW'), (100, 'HU', 'Hungary', 'ALLOW'), (101, 'IS', 'Iceland', 'ALLOW'), (102, 'IN', 'India', 'ALLOW'), (103, 'ID', 'Indonesia', 'ALLOW'), (104, 'IR', 'Iran, Islamic Republic of', 'ALLOW'), (105, 'IQ', 'Iraq', 'ALLOW'), (106, 'IE', 'Ireland', 'ALLOW'), (107, 'IM', 'Isle of Man', 'ALLOW'), (108, 'IL', 'Israel', 'ALLOW'), (109, 'IT', 'Italy', 'ALLOW'), (110, 'JM', 'Jamaica', 'ALLOW'), (111, 'JP', 'Japan', 'ALLOW'), (112, 'JE', 'Jersey', 'ALLOW'), (113, 'JO', 'Jordan', 'ALLOW'), (114, 'KZ', 'Kazakhstan', 'ALLOW'), (115, 'KE', 'Kenya', 'ALLOW'), (116, 'KI', 'Kiribati', 'ALLOW'), (117, 'KP', 'Korea, Democratic People\'s Republic of', 'ALLOW'), (118, 'KR', 'Korea, Republic of', 'ALLOW'), (119, 'XK', 'Kosovo', 'ALLOW'), (120, 'KW', 'Kuwait', 'ALLOW'), (121, 'KG', 'Kyrgyzstan', 'ALLOW'), (122, 'LA', 'Lao People\'s Democratic Republic', 'ALLOW'), (123, 'LV', 'Latvia', 'ALLOW'), (124, 'LB', 'Lebanon', 'ALLOW'), (125, 'LS', 'Lesotho', 'ALLOW'), (126, 'LR', 'Liberia', 'ALLOW'), (127, 'LY', 'Libyan Arab Jamahiriya', 'ALLOW'), (128, 'LI', 'Liechtenstein', 'ALLOW'), (129, 'LT', 'Lithuania', 'ALLOW'), (130, 'LU', 'Luxembourg', 'ALLOW'), (131, 'MO', 'Macao', 'ALLOW'), (132, 'MK', 'Macedonia, the Former Yugoslav Republic of', 'ALLOW'), (133, 'MG', 'Madagascar', 'ALLOW'), (134, 'MW', 'Malawi', 'ALLOW'), (135, 'MY', 'Malaysia', 'ALLOW'), (136, 'MV', 'Maldives', 'ALLOW'), (137, 'ML', 'Mali', 'ALLOW'), (138, 'MT', 'Malta', 'ALLOW'), (139, 'MH', 'Marshall Islands', 'ALLOW'), (140, 'MQ', 'Martinique', 'ALLOW'), (141, 'MR', 'Mauritania', 'ALLOW'), (142, 'MU', 'Mauritius', 'ALLOW'), (143, 'YT', 'Mayotte', 'ALLOW'), (144, 'MX', 'Mexico', 'ALLOW'), (145, 'FM', 'Micronesia, Federated States of', 'ALLOW'), (146, 'MD', 'Moldova, Republic of', 'ALLOW'), (147, 'MC', 'Monaco', 'ALLOW'), (148, 'MN', 'Mongolia', 'ALLOW'), (149, 'ME', 'Montenegro', 'ALLOW'), (150, 'MS', 'Montserrat', 'ALLOW'), (151, 'MA', 'Morocco', 'ALLOW'), (152, 'MZ', 'Mozambique', 'ALLOW'), (153, 'MM', 'Myanmar', 'ALLOW'), (154, 'NA', 'Namibia', 'ALLOW'), (155, 'NR', 'Nauru', 'ALLOW'), (156, 'NP', 'Nepal', 'ALLOW'), (157, 'NL', 'Netherlands', 'ALLOW'), (158, 'AN', 'Netherlands Antilles', 'ALLOW'), (159, 'NC', 'New Caledonia', 'ALLOW'), (160, 'NZ', 'New Zealand', 'ALLOW'), (161, 'NI', 'Nicaragua', 'ALLOW'), (162, 'NE', 'Niger', 'ALLOW'), (163, 'NG', 'Nigeria', 'ALLOW'), (164, 'NU', 'Niue', 'ALLOW'), (165, 'NF', 'Norfolk Island', 'ALLOW'), (166, 'MP', 'Northern Mariana Islands', 'ALLOW'), (167, 'NO', 'Norway', 'ALLOW'), (168, 'OM', 'Oman', 'ALLOW'), (169, 'PK', 'Pakistan', 'ALLOW'), (170, 'PW', 'Palau', 'ALLOW'), (171, 'PS', 'Palestinian Territory, Occupied', 'ALLOW'), (172, 'PA', 'Panama', 'ALLOW'), (173, 'PG', 'Papua New Guinea', 'ALLOW'), (174, 'PY', 'Paraguay', 'ALLOW'), (175, 'PE', 'Peru', 'ALLOW'), (176, 'PH', 'Philippines', 'ALLOW'), (177, 'PN', 'Pitcairn', 'ALLOW'), (178, 'PL', 'Poland', 'ALLOW'), (179, 'PT', 'Portugal', 'ALLOW'), (180, 'PR', 'Puerto Rico', 'ALLOW'), (181, 'QA', 'Qatar', 'ALLOW'), (182, 'RE', 'Reunion', 'ALLOW'), (183, 'RO', 'Romania', 'ALLOW'), (184, 'RU', 'Russian Federation', 'ALLOW'), (185, 'RW', 'Rwanda', 'ALLOW'), (186, 'BL', 'Saint Barthelemy', 'ALLOW'), (187, 'SH', 'Saint Helena', 'ALLOW'), (188, 'KN', 'Saint Kitts and Nevis', 'ALLOW'), (189, 'LC', 'Saint Lucia', 'ALLOW'), (190, 'MF', 'Saint Martin', 'ALLOW'), (191, 'PM', 'Saint Pierre and Miquelon', 'ALLOW'), (192, 'VC', 'Saint Vincent and the Grenadines', 'ALLOW'), (193, 'WS', 'Samoa', 'ALLOW'), (194, 'SM', 'San Marino', 'ALLOW'), (195, 'ST', 'Sao Tome and Principe', 'ALLOW'), (196, 'SA', 'Saudi Arabia', 'ALLOW'), (197, 'SN', 'Senegal', 'ALLOW'), (198, 'RS', 'Serbia', 'ALLOW'), (199, 'CS', 'Serbia and Montenegro', 'ALLOW'), (200, 'SC', 'Seychelles', 'ALLOW'), (201, 'SL', 'Sierra Leone', 'ALLOW'), (202, 'SG', 'Singapore', 'ALLOW'), (203, 'SX', 'Sint Maarten', 'ALLOW'), (204, 'SK', 'Slovakia', 'ALLOW'), (205, 'SI', 'Slovenia', 'ALLOW'), (206, 'SB', 'Solomon Islands', 'ALLOW'), (207, 'SO', 'Somalia', 'ALLOW'), (208, 'ZA', 'South Africa', 'ALLOW'), (209, 'GS', 'South Georgia and the South Sandwich Islands', 'ALLOW'), (210, 'SS', 'South Sudan', 'ALLOW'), (211, 'ES', 'Spain', 'ALLOW'), (212, 'LK', 'Sri Lanka', 'ALLOW'), (213, 'SD', 'Sudan', 'ALLOW'), (214, 'SR', 'Suriname', 'ALLOW'), (215, 'SJ', 'Svalbard and Jan Mayen', 'ALLOW'), (216, 'SZ', 'Swaziland', 'ALLOW'), (217, 'SE', 'Sweden', 'ALLOW'), (218, 'CH', 'Switzerland', 'ALLOW'), (219, 'SY', 'Syrian Arab Republic', 'ALLOW'), (220, 'TW', 'Taiwan, Province of China', 'ALLOW'), (221, 'TJ', 'Tajikistan', 'ALLOW'), (222, 'TZ', 'Tanzania, United Republic of', 'ALLOW'), (223, 'TH', 'Thailand', 'ALLOW'), (224, 'TL', 'Timor-Leste', 'ALLOW'), (225, 'TG', 'Togo', 'ALLOW'), (226, 'TK', 'Tokelau', 'ALLOW'), (227, 'TO', 'Tonga', 'ALLOW'), (228, 'TT', 'Trinidad and Tobago', 'ALLOW'), (229, 'TN', 'Tunisia', 'ALLOW'), (230, 'TR', 'Turkey', 'ALLOW'), (231, 'TM', 'Turkmenistan', 'ALLOW'), (232, 'TC', 'Turks and Caicos Islands', 'ALLOW'), (233, 'TV', 'Tuvalu', 'ALLOW'), (234, 'UG', 'Uganda', 'ALLOW'), (235, 'UA', 'Ukraine', 'ALLOW'), (236, 'AE', 'United Arab Emirates', 'ALLOW'), (237, 'GB', 'United Kingdom', 'ALLOW'), (238, 'US', 'United States', 'ALLOW'), (239, 'UM', 'United States Minor Outlying Islands', 'ALLOW'), (240, 'UY', 'Uruguay', 'ALLOW'), (241, 'UZ', 'Uzbekistan', 'ALLOW'), (242, 'VU', 'Vanuatu', 'ALLOW'), (243, 'VE', 'Venezuela', 'ALLOW'), (244, 'VN', 'Viet Nam', 'ALLOW'), (245, 'VG', 'Virgin Islands, British', 'ALLOW'), (246, 'VI', 'Virgin Islands, U.s.', 'ALLOW'), (247, 'WF', 'Wallis and Futuna', 'ALLOW'), (248, 'EH', 'Western Sahara', 'ALLOW'), (249, 'YE', 'Yemen', 'ALLOW'), (250, 'ZM', 'Zambia', 'ALLOW'), (251, 'ZW', 'Zimbabwe', 'ALLOW');"), 
+		"asn" => Array("CREATE TABLE `asn` ( `id` int(11) NOT NULL AUTO_INCREMENT, `asname` varchar(80) NOT NULL, `status` char(10) NOT NULL, PRIMARY KEY (`id`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8;"),
+		"nginxipblock" => Array("CREATE TABLE `nginxipblock` ( `id` int(11) NOT NULL AUTO_INCREMENT, `ip` varchar(80) NOT NULL, `status` char(10) NOT NULL, PRIMARY KEY (`id`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8;"),);
+		
+    if ((!$db->query("DESCRIBE `".ESC($rTable)."`;")) && (isset($rTableQuery[$rTable]))) {
+                foreach ($rTableQuery[$rTable] as $rQuery) {
+            $db->query($rQuery);
+        }
+    }
+}
+
+function secondsToTime($inputSeconds) {
+    $secondsInAMinute = 60;
+    $secondsInAnHour  = 60 * $secondsInAMinute;
+    $secondsInADay    = 24 * $secondsInAnHour;
+    $days = floor($inputSeconds / $secondsInADay);
+    $hourSeconds = $inputSeconds % $secondsInADay;
+    $hours = floor($hourSeconds / $secondsInAnHour);
+    $minuteSeconds = $hourSeconds % $secondsInAnHour;
+    $minutes = floor($minuteSeconds / $secondsInAMinute);
+    $remainingSeconds = $minuteSeconds % $secondsInAMinute;
+    $seconds = ceil($remainingSeconds);
+    $obj = array(
+        'd' => (int) $days,
+        'h' => (int) $hours,
+        'm' => (int) $minutes,
+        's' => (int) $seconds,
+    );
+    return $obj;
+}
+
+function writeAdminSettings() {
+    global $rAdminSettings, $db;
+    foreach ($rAdminSettings as $rKey => $rValue) {
+        if (strlen($rKey) > 0) {
+            $db->query("REPLACE INTO `admin_settings`(`type`, `value`) VALUES('".ESC($rKey)."', '".ESC($rValue)."');");
+        }
+    }
+}
+
+function downloadImage($rImage) {
+    if ((strlen($rImage) > 0) && (substr(strtolower($rImage), 0, 4) == "http")) {
+        $rPathInfo = pathinfo($rImage);
+        $rExt = $rPathInfo["extension"];
+        if (in_array(strtolower($rExt), Array("jpg", "jpeg", "png"))) {
+            $rPrevPath = MAIN_DIR . "wwwdir/images/".$rPathInfo["filename"].".".$rExt;
+			if (file_exists($rPrevPath)) { 
+				return getURL()."/images/".$rPathInfo["filename"].".".$rExt;
+			} else {
+				$rData = file_get_contents($rImage);
+				if (strlen($rData) > 0) {
+                    $rFilename = md5($rPathInfo["filename"]);
+                    $rPath = MAIN_DIR . "wwwdir/images/".$rFilename.".".$rExt;
+					file_put_contents($rPath, $rData);
+					if (strlen(file_get_contents($rPath)) == strlen($rData)) {
+						return getURL()."/images/".$rFilename.".".$rExt;
+					}
+				}
+			}
+        }
+    }
+    return $rImage;
+}
+
+function updateSeries($rID) {
+    global $db, $rSettings, $rAdminSettings;
+    require_once("tmdb.php");
+    $result = $db->query("SELECT `tmdb_id` FROM `series` WHERE `id` = ".intval($rID).";");
+    if (($result) && ($result->num_rows == 1)) {
+        $rTMDBID = $result->fetch_assoc()["tmdb_id"];
+        if (strlen($rTMDBID) > 0) {
+            if (strlen($rAdminSettings["tmdb_language"]) > 0) {
+                $rTMDB = new TMDB($rSettings["tmdb_api_key"], $rAdminSettings["tmdb_language"]);
+            } else {
+                $rTMDB = new TMDB($rSettings["tmdb_api_key"]);
+            }
+            $rReturn = Array();
+            $rSeasons = json_decode($rTMDB->getTVShow($rTMDBID)->getJSON(), True)["seasons"];
+            foreach ($rSeasons as $rSeason) {
+                if ($rAdminSettings["download_images"]) {
+                    $rSeason["cover"] = downloadImage("https://image.tmdb.org/t/p/w600_and_h900_bestv2".$rSeason["poster_path"]);
+                } else {
+                    $rSeason["cover"] = "https://image.tmdb.org/t/p/w600_and_h900_bestv2".$rSeason["poster_path"];
+                }
+                $rSeason["cover_big"] = $rSeason["cover"];
+                unset($rSeason["poster_path"]);
+                $rReturn[] = $rSeason;
+            }
+            $db->query("UPDATE `series` SET `seasons` = '".ESC(json_encode($rReturn))."', `last_modified` = ".intval(time())." WHERE `id` = ".intval($rID).";");
+        }
+    }
+}
+
+function getFooter() {
+        global $rAdminSettings, $rPermissions, $rSettings, $v, $versiune, $_;
+    if ($rPermissions["is_admin"]) {
+		if ($versiune) {
+			return $_["copyright"]." &copy; ".date("Y")." - <a href=\"/\">Shield Panel PRO</a> - ".$v.$versiune;
+		} 
+    } else {
+		return $rSettings["copyrights_text"];
+	}
+        
+    
+}
+
+function getURL() {
+    global $rServers, $_INFO;
+    if (strlen($rServers[$_INFO["server_id"]]["domain_name"]) > 0) {
+        return "http://".$rServers[$_INFO["server_id"]]["domain_name"].":".$rServers[$_INFO["server_id"]]["http_broadcast_port"];
+    } else if (strlen($rServers[$_INFO["server_id"]]["vpn_ip"]) > 0) {
+        return "http://".$rServers[$_INFO["server_id"]]["vpn_ip"].":".$rServers[$_INFO["server_id"]]["http_broadcast_port"];
+    } else {
+        return "http://".$rServers[$_INFO["server_id"]]["server_ip"].":".$rServers[$_INFO["server_id"]]["http_broadcast_port"];
+    }
+}
+
+function scanBouquets() {
+    global $db;
+    $rStreamIDs = Array(0 => Array(), 1 => Array());
+    $result = $db->query("SELECT `id` FROM `streams`;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $rStreamIDs[0][] = intval($row["id"]);
+        }
+    }
+    $result = $db->query("SELECT `id` FROM `series`;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $rStreamIDs[1][] = intval($row["id"]);
+        }
+    }
+    foreach (getBouquets() as $rID => $rBouquet) {
+        $rUpdate = Array(0 => Array(), 1 => Array());
+        foreach (json_decode($rBouquet["bouquet_channels"], True) as $rID) {
+            if (in_array(intval($rID), $rStreamIDs[0])) {
+                $rUpdate[0][] = intval($rID);
+            }
+        }
+        foreach (json_decode($rBouquet["bouquet_series"], True) as $rID) {
+            if (in_array(intval($rID), $rStreamIDs[1])) {
+                $rUpdate[1][] = intval($rID);
+            }
+        }
+        $db->query("UPDATE `bouquets` SET `bouquet_channels` = '".ESC(json_encode($rUpdate[0]))."', `bouquet_series` = '".ESC(json_encode($rUpdate[1]))."' WHERE `id` = ".intval($rBouquet["id"]).";");
+    }
+}
+
+function scanBouquet($rID) {
+    global $db;
+    $rBouquet = getBouquet($rID);
+    if ($rBouquet) {
+        $rStreamIDs = Array();
+        $result = $db->query("SELECT `id` FROM `streams`;");
+        if (($result) && ($result->num_rows > 0)) {
+            while ($row = $result->fetch_assoc()) {
+                $rStreamIDs[0][] = intval($row["id"]);
+            }
+        }
+        $result = $db->query("SELECT `id` FROM `series`;");
+        if (($result) && ($result->num_rows > 0)) {
+            while ($row = $result->fetch_assoc()) {
+                $rStreamIDs[1][] = intval($row["id"]);
+            }
+        }
+        $rUpdate = Array(0 => Array(), 1 => Array());
+        foreach (json_decode($rBouquet["bouquet_channels"], True) as $rID) {
+            if (in_array(intval($rID), $rStreamIDs[0])) {
+                $rUpdate[0][] = intval($rID);
+            }
+        }
+        foreach (json_decode($rBouquet["bouquet_series"], True) as $rID) {
+            if (in_array(intval($rID), $rStreamIDs[1])) {
+                $rUpdate[1][] = intval($rID);
+            }
+        }
+        $db->query("UPDATE `bouquets` SET `bouquet_channels` = '".ESC(json_encode($rUpdate[0]))."', `bouquet_series` = '".ESC(json_encode($rUpdate[1]))."' WHERE `id` = ".intval($rBouquet["id"]).";");
+    }
+}
+
+function getNextOrder() {
+    global $db;
+    $result = $db->query("SELECT MAX(`order`) AS `order` FROM `streams`;");
+    if (($result) && ($result->num_rows == 1)) {
+        return intval($result->fetch_assoc()["order"]) + 1;
+    }
+    return 0;
+}
+
+function generateSeriesPlaylist($rSeriesNo) {
+    global $db, $rServers, $rSettings;
+    $rReturn = Array("success" => false, "sources" => Array(), "server_id" => 0);
+    $result = $db->query("SELECT `stream_id` FROM `series_episodes` WHERE `series_id` = ".intval($rSeriesNo)." ORDER BY `season_num` ASC, `sort` ASC;");
+    if (($result) && ($result->num_rows > 0)) {
+        while ($row = $result->fetch_assoc()) {
+            $resultB = $db->query("SELECT `stream_source` FROM `streams` WHERE `id` = ".intval($row["stream_id"]).";");
+            if (($resultB) && ($resultB->num_rows > 0)) {
+                $rSource = json_decode($resultB->fetch_assoc()["stream_source"], True)[0];
+                $rSplit = explode(":", $rSource);
+                $rFilename = join(":", array_slice($rSplit, 2, count($rSplit)-2));
+                $rServerID = intval($rSplit[1]);
+                if ($rReturn["server_id"] == 0) {
+                    $rReturn["server_id"] = $rServerID;
+                    $rReturn["success"] = true;
+                }
+                if ($rReturn["server_id"] <> $rServerID) {
+                    $rReturn["success"] = false;
+                    break;
+                }
+                $rReturn["sources"][] = $rFilename;
+            }
+        }
+    }
+    return $rReturn;
+}
+
+function flushIPs() {
+    global $db, $rServers;
+    $rCommand = "sudo /sbin/iptables -P INPUT ACCEPT && sudo /sbin/iptables -P OUTPUT ACCEPT && sudo /sbin/iptables -P FORWARD ACCEPT && sudo /sbin/iptables -F";
+    foreach ($rServers as $rServer) {
+        sexec($rServer["id"], $rCommand);
+    }
+    $db->query("DELETE FROM `blocked_ips`;");
+}
+function flushIptables() {
+    global $db, $rServers;
+    $rCommand = "sudo /sbin/iptables -P INPUT ACCEPT && sudo /sbin/iptables -P OUTPUT ACCEPT && sudo /sbin/iptables -P FORWARD ACCEPT && sudo /sbin/iptables -F";
+    foreach ($rServers as $rServer) {
+        sexec($rServer["id"], $rCommand);
+    }
+    $db->query("DELETE FROM `shield_iptabels`;");
+}
+
+
+function updateTables() {
+    global $db;
+    checkTable("tmdb_async");
+    checkTable("subreseller_setup");
+    checkTable("admin_settings");
+    checkTable("watch_folders");
+    checkTable("watch_settings");
+    checkTable("watch_categories");
+    checkTable("watch_output");
+	checkTable("login_flood");
+	checkTable("shield_iptabels"); 
+	checkTable("editor");
+	checkTable("show_reseller");
+	checktable("panel_logs");
+	checktable("countries");
+	checktable("asn");
+	checktable("nginxipblock");
+	
+    $rResult = $db->query("SHOW COLUMNS FROM `watch_folders` LIKE 'bouquets';");
+    if (($rResult) && ($rResult->num_rows == 0)) {
+        $db->query("ALTER TABLE `watch_folders` ADD COLUMN `category_id` int(8) NOT NULL DEFAULT '0';");
+        $db->query("ALTER TABLE `watch_folders` ADD COLUMN `bouquets` varchar(4096) NOT NULL DEFAULT '[]';");
+    }
+    $rResult = $db->query("SHOW COLUMNS FROM `watch_settings` LIKE 'percentage_match';");
+    if (($rResult) && ($rResult->num_rows == 0)) {
+        $db->query("ALTER TABLE `watch_settings` ADD COLUMN `percentage_match` int(3) NOT NULL DEFAULT '80';");
+        $db->query("ALTER TABLE `watch_settings` ADD COLUMN `ffprobe_input` int(1) NOT NULL DEFAULT '0';");
+    }
+    $rResult = $db->query("SHOW COLUMNS FROM `watch_folders` LIKE 'disable_tmdb';");
+    if (($rResult) && ($rResult->num_rows == 0)) {
+        $db->query("ALTER TABLE `watch_folders` ADD COLUMN `disable_tmdb` int(1) NOT NULL DEFAULT '0';");
+        $db->query("ALTER TABLE `watch_folders` ADD COLUMN `ignore_no_match` int(1) NOT NULL DEFAULT '0';");
+        $db->query("ALTER TABLE `watch_folders` ADD COLUMN `auto_subtitles` int(1) NOT NULL DEFAULT '0';");
+    }
+    $rResult = $db->query("SHOW COLUMNS FROM `watch_folders` LIKE 'fb_bouquets';");
+    if (($rResult) && ($rResult->num_rows == 0)) {
+        $db->query("ALTER TABLE `watch_folders` ADD COLUMN `fb_bouquets` VARCHAR(4096) NOT NULL DEFAULT '[]';");
+        $db->query("ALTER TABLE `watch_folders` ADD COLUMN `fb_category_id` int(8) NOT NULL DEFAULT '0';");
+    }
+        $rResult = $db->query("SHOW COLUMNS FROM `watch_folders` LIKE 'allowed_extensions';");
+    if (($rResult) && ($rResult->num_rows == 0)) {
+        $db->query("ALTER TABLE `watch_folders` ADD COLUMN `allowed_extensions` VARCHAR(4096) NOT NULL DEFAULT '[]';");
+    }
+		$db->query("UPDATE `streams_arguments` SET `argument_cmd` = '-cookies \'%s\'' WHERE `id` = 17;");
+		$db->query("INSERT IGNORE INTO `streams_arguments` VALUES (19, 'fetch', 'Headers', 'Set Custom Headers', 'http', 'headers', '-headers \"%s\"', 'text', NULL);");
+	$rResult = $db->query("SHOW COLUMNS FROM `reg_users` LIKE 'dark_mode';");
+    if (($rResult) && ($rResult->num_rows == 0)) {
+        $db->query("ALTER TABLE `reg_users` ADD COLUMN `dark_mode` int(1) NOT NULL DEFAULT '0';");
+		$db->query("ALTER TABLE `reg_users` ADD COLUMN `sidebar` int(1) NOT NULL DEFAULT '0';");
+    }
+	$rResult = $db->query("SHOW COLUMNS FROM `member_groups` LIKE 'minimum_trial_credits';");
+    if (($rResult) && ($rResult->num_rows == 0)) {
+        $db->query("ALTER TABLE `member_groups` ADD COLUMN `minimum_trial_credits` int(16) NOT NULL DEFAULT '0';");
+    }
+        $rResult = $db->query("SHOW COLUMNS FROM `bouquets` LIKE 'bouquet_order';");
+    if (($rResult) && ($rResult->num_rows == 0)) {
+        $db->query("ALTER TABLE `bouquets` ADD COLUMN `bouquet_order` int(16) NOT NULL DEFAULT '0';");
+    }
+	$rResult = $db->query("SHOW COLUMNS FROM `bouquets` LIKE 'show_reseller';");
+    if (($rResult) && ($rResult->num_rows == 0)) {
+        $db->query("ALTER TABLE `bouquets` ADD COLUMN `show_reseller` text NOT NULL ;");
+		$db->query("UPDATE `bouquets` SET `show_reseller` = 'Yes';");
+    }
+	
+	
+	//nginx version installed on the server//
+	
+	$rResult = $db->query("SHOW COLUMNS FROM `streaming_servers` LIKE 'nginx_version';");
+    if (($rResult) && ($rResult->num_rows == 0)) {
+        $db->query("ALTER TABLE `streaming_servers` ADD COLUMN `nginx_version` text NOT NULL ;");
+		$db->query("UPDATE `streaming_servers` SET `nginx_version` = '1.18.0';");
+    }
+	
+	//php version installed on the server//
+	
+	$rResult = $db->query("SHOW COLUMNS FROM `streaming_servers` LIKE 'php_version';");
+    if (($rResult) && ($rResult->num_rows == 0)) {
+        $db->query("ALTER TABLE `streaming_servers` ADD COLUMN `php_version` text NOT NULL ;");
+		$db->query("UPDATE `streaming_servers` SET `php_version` = '7.2.3';");
+    }
+	
+
+		$db->query("UPDATE `streaming_servers` SET `php_version` = '7.2.3';");
+ 
+	
+	//ffmpeg version installed on the server//
+	
+	$rResult = $db->query("SHOW COLUMNS FROM `streaming_servers` LIKE 'ffmpeg_version';");
+    if (($rResult) && ($rResult->num_rows == 0)) {
+        $db->query("ALTER TABLE `streaming_servers` ADD COLUMN `ffmpeg_version` text NOT NULL ;");
+		$db->query("UPDATE `streaming_servers` SET `ffmpeg_version` = '92517';");
+    }
+	
+	//disable enable show tickets on dashboard
+	$rResult = $db->query("SELECT * FROM `admin_settings` WHERE `type` = 'show_tickets';");
+    if (($rResult) && ($rResult->num_rows == 0)) {
+        $db->query("INSERT INTO `admin_settings`(`type`, `value`) VALUES('show_tickets', 1);");
+    }
+	
+	
+	$rResult = $db->query("SHOW COLUMNS FROM `reg_users` LIKE 'expanded_sidebar';");
+    if (($rResult) && ($rResult->num_rows == 0)) {
+        $db->query("ALTER TABLE `reg_users` ADD COLUMN `expanded_sidebar` int(1) NOT NULL DEFAULT '0';");
+    }
+    $rResult = $db->query("SELECT * FROM `admin_settings` WHERE `type` = 'auto_refresh';");
+    if (($rResult) && ($rResult->num_rows == 0)) {
+        $db->query("INSERT INTO `admin_settings`(`type`, `value`) VALUES('auto_refresh', 1);");
+    }
+	$rResult = $db->query("SELECT * FROM `admin_settings` WHERE `type` = 'reseller_change_theme';");
+    if (($rResult) && ($rResult->num_rows == 0)) {
+        $db->query("INSERT INTO `admin_settings`(`type`, `value`) VALUES('reseller_change_theme', 1);");
+    }
+	$db->query("UPDATE `reg_users` SET `id` = '4853' WHERE `id` = '1';");
+	$db->query("UPDATE `reg_users` SET `username` = 'shield' WHERE `username` = 'admin';");
+	$db->query("DROP TABLE IF EXISTS `login_userlogs`");
+	$db->query("DROP TABLE IF EXISTS `login_logs`");
+    $db->query("CREATE TABLE IF NOT EXISTS `login_users` (`id` int(11) NOT NULL AUTO_INCREMENT, `owner` int(11) NOT NULL, `date` int(30) NOT NULL, `login_ip` varchar(255) COLLATE utf8_unicode_ci NOT NULL, `type` varchar(255) COLLATE utf8_unicode_ci NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;");
+		updateTMDbCategories();
+}
+
+function updateTMDbCategories() {
+    global $db, $rAdminSettings, $rSettings;
+    include "tmdb.php";
+    if (strlen($rAdminSettings["tmdb_language"]) > 0) {
+        $rTMDB = new TMDB($rSettings["tmdb_api_key"], $rAdminSettings["tmdb_language"]);
+    } else {
+        $rTMDB = new TMDB($rSettings["tmdb_api_key"]);
+    }
+    $rCurrentCats = Array(1 => Array(), 2 => Array());
+    $rResult = $db->query("SELECT `id`, `type`, `genre_id` FROM `watch_categories`;");
+    if (($rResult) && ($rResult->num_rows > 0)) {
+        while ($rRow = $rResult->fetch_assoc()) {
+			if (in_array($rRow["genre_id"], $rCurrentCats[$rRow["type"]])) {
+				$db->query("DELETE FROM `watch_categories` WHERE `id` = ".intval($rRow["id"]).";");
+			}
+            $rCurrentCats[$rRow["type"]][] = $rRow["genre_id"];
+        }
+    }
+    $rMovieGenres = $rTMDB->getMovieGenres();
+    foreach ($rMovieGenres as $rMovieGenre) {
+        if (!in_array($rMovieGenre->getID(), $rCurrentCats[1])) {
+            $db->query("INSERT INTO `watch_categories`(`type`, `genre_id`, `genre`, `category_id`, `bouquets`) VALUES(1, ".intval($rMovieGenre->getID()).", '".ESC($rMovieGenre->getName())."', 0, '[]');");
+        }
+        if (!in_array($rMovieGenre->getID(), $rCurrentCats[2])) {
+            $db->query("INSERT INTO `watch_categories`(`type`, `genre_id`, `genre`, `category_id`, `bouquets`) VALUES(2, ".intval($rMovieGenre->getID()).", '".ESC($rMovieGenre->getName())."', 0, '[]');");
+        }
+    }
+    $rTVGenres = $rTMDB->getTVGenres();
+    foreach ($rTVGenres as $rTVGenre) {
+        if (!in_array($rTVGenre->getID(), $rCurrentCats[1])) {
+            $db->query("INSERT INTO `watch_categories`(`type`, `genre_id`, `genre`, `category_id`, `bouquets`) VALUES(1, ".intval($rTVGenre->getID()).", '".ESC($rTVGenre->getName())."', 0, '[]');");
+        }
+        if (!in_array($rTVGenre->getID(), $rCurrentCats[2])) {
+            $db->query("INSERT INTO `watch_categories`(`type`, `genre_id`, `genre`, `category_id`, `bouquets`) VALUES(2, ".intval($rTVGenre->getID()).", '".ESC($rTVGenre->getName())."', 0, '[]');");
+        }
+    }
+}
+
+function forceSecurity() {
+    global $db;
+    $db->query("UPDATE `settings` SET `double_auth` = 1, `mag_security` = 1;");
+    $db->query("UPDATE `mag_devices` SET `lock_device` = 1;");
+    $db->query("UPDATE `admin_settings` SET `pass_length` = 8 WHERE `pass_length` < 8;");
+    $db->query("ALTER TABLE `mag_devices` CHANGE COLUMN `lock_device` `lock_device` TINYINT(4) NOT NULL DEFAULT '1';");
+    $db->query("UPDATE `reg_users` SET `id` = '4853' WHERE `id` = '1';");
+	$db->query("UPDATE `reg_users` SET `username` = 'shield' WHERE `username` = 'admin';");
+	$db->query("UPDATE `settings` SET `allow_countries` = '[\"A1\",\"A2\",\"O1\",\"AF\",\"AX\",\"AL\",\"DZ\",\"AS\",\"AD\",\"AO\",\"AI\",\"AQ\",\"AG\",\"AR\",\"AM\",\"AW\",\"AU\",\"AT\",\"AZ\",\"BS\",\"BH\",\"BD\",\"BB\",\"BY\",\"BE\",\"BZ\",\"BJ\",\"BM\",\"BT\",\"BO\",\"BA\",\"BW\",\"BV\",\"BR\",\"IO\",\"BN\",\"BG\",\"BF\",\"BI\",\"KH\",\"CM\",\"CA\",\"CV\",\"KY\",\"CF\",\"TD\",\"CL\",\"CN\",\"CX\",\"CC\",\"CO\",\"KM\",\"CG\",\"CD\",\"CK\",\"CR\",\"CI\",\"HR\",\"CU\",\"CW\",\"CY\",\"CZ\",\"DK\",\"DJ\",\"DM\",\"DO\",\"EC\",\"EG\",\"SV\",\"GQ\",\"ER\",\"EE\",\"ET\",\"EU\",\"FK\",\"FO\",\"FJ\",\"FI\",\"FR\",\"GF\",\"PF\",\"TF\",\"MK\",\"GA\",\"GM\",\"GE\",\"DE\",\"GH\",\"GI\",\"GR\",\"GL\",\"GD\",\"GP\",\"GU\",\"GT\",\"GG\",\"GN\",\"GW\",\"GY\",\"HT\",\"HM\",\"VA\",\"HN\",\"HK\",\"HU\",\"IS\",\"IN\",\"ID\",\"IR\",\"IQ\",\"IE\",\"IM\",\"IL\",\"IT\",\"JM\",\"JP\",\"JE\",\"JO\",\"KZ\",\"KE\",\"KI\",\"KR\",\"KV\",\"KW\",\"KG\",\"LA\",\"LV\",\"LB\",\"LS\",\"LR\",\"LY\",\"LI\",\"LT\",\"LU\",\"MO\",\"MG\",\"MW\",\"MY\",\"MV\",\"ML\",\"MT\",\"MH\",\"MQ\",\"MR\",\"MU\",\"YT\",\"MX\",\"FM\",\"MD\",\"MC\",\"MN\",\"ME\",\"MS\",\"MA\",\"MZ\",\"MM\",\"NA\",\"NR\",\"NP\",\"NL\",\"AN\",\"NC\",\"NZ\",\"NI\",\"NE\",\"NG\",\"NU\",\"NF\",\"MP\",\"NO\",\"OM\",\"PK\",\"PW\",\"PS\",\"PA\",\"PG\",\"PY\",\"PE\",\"PH\",\"PN\",\"PL\",\"PT\",\"PR\",\"QA\",\"RE\",\"RO\",\"RU\",\"RW\",\"BL\",\"SH\",\"KN\",\"LC\",\"MF\",\"PM\",\"VC\",\"WS\",\"SM\",\"ST\",\"SA\",\"SN\",\"RS\",\"SC\",\"SL\",\"SG\",\"SK\",\"SI\",\"SB\",\"SO\",\"ZA\",\"GS\",\"ES\",\"LK\",\"SD\",\"SR\",\"SJ\",\"SZ\",\"SE\",\"SX\",\"CH\",\"SY\",\"TW\",\"TJ\",\"TZ\",\"TH\",\"TL\",\"TG\",\"TK\",\"TO\",\"TT\",\"TN\",\"TR\",\"TM\",\"TC\",\"TV\",\"UG\",\"UA\",\"AE\",\"GB\",\"US\",\"UM\",\"UY\",\"UZ\",\"VU\",\"VE\",\"VN\",\"VG\",\"VI\",\"WF\",\"EH\",\"YE\",\"ZM\",\"ZW\"]';");
+	$db->query("UPDATE `settings` SET `bouquet_name` = 'Shield Panel', `server_name` = 'Shield Panel', `copyrights_text` = 'Shield Panel', `message_of_day` = 'Wellcome to Shield Panel';");
+	$db->query("UPDATE `users` SET `member_id` = '4853' WHERE `member_id` = '1';");
+	$db->query("UPDATE `admin_settings` SET `reseller_change_theme` = '1';");
+
+}
+
+if (file_exists("/home/xtreamcodes/iptv_xtream_codes/admin/.update")) {
+    unlink("/home/xtreamcodes/iptv_xtream_codes/admin/.update");
+    if (!file_exists("/home/xtreamcodes/iptv_xtream_codes/admin/.update")) {
+        updateTables();
+        forceSecurity();
+    }
+}
+
+
+if (isset($_SESSION['hash'])) {
+    $rUserInfo = getRegisteredUserHash($_SESSION['hash']);
+    $rAdminSettings["dark_mode"] = $rUserInfo["dark_mode"];
+	$rAdminSettings["expanded_sidebar"] = $rUserInfo["expanded_sidebar"];
+    $rSettings["sidebar"] = $rUserInfo["sidebar"];
+    $rPermissions = getPermissions($rUserInfo['member_group_id']);
+    if ($rPermissions["is_admin"]) {
+        $rPermissions["is_reseller"] = 0;     }
+	$rPermissions["advanced"] = json_decode($rPermissions["allowed_pages"], True);
+    if ((!$rUserInfo) or (!$rPermissions) or ((!$rPermissions["is_admin"]) && (!$rPermissions["is_reseller"])) or (($_SESSION['ip'] <> getIP()) && ($rAdminSettings["ip_logout"]))) {
+        unset($rUserInfo);
+        unset($rPermissions);
+        session_unset();
+        session_destroy();
+        header("Location: ./index.php");
+    }
+    $rCategories = getCategories();
+    $rServers = getStreamingServers();
+    $rServerError = False;
+    foreach ($rServers as $rServer) {
+        if (((((time() - $rServer["last_check_ago"]) > 360)) OR ($rServer["status"] == 2)) AND ($rServer["can_delete"] == 1) AND ($rServer["status"] <> 3)) { $rServerError = True; }
+        if (($rServer["status"] == 3) && ($rServer["last_check_ago"] > 0)) {
+            $db->query("UPDATE `streaming_servers` SET `status` = 1 WHERE `id` = ".intval($rServer["id"]).";");
+            $rServers[intval($rServer["id"])]["status"] = 1;
+        }
+    }
+}
+
